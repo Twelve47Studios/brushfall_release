@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.39",
-  "published": "2026-10-04T20:34:27.854Z",
-  "notes": "- The party list is only as wide as what it shows, so the collapsed strip never gets pushed\n- Chat bubbles sit above a nameplate lifted by effect icons; document the aura time stamp\n- Party effect icons as badges on the frame edge (names keep their room), clearer shield bubble and drip, bigge…\n- Effect icons under nameplates, in-world effect cues, collapsible party list",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.39",
+  "version": "0.1.1-early.40",
+  "published": "2026-10-04T20:47:12.323Z",
+  "notes": "- Painted HUD icons (ui/icon/*) replace emoji and pictographic glyphs",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.40",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.39/brushfall-server-0.1.1-early.39.tar.gz",
-      "sha256": "bb4b4b3b038e9eedfb970e30e00f9776ef093a7e34bdf9766484ee67559d8650",
-      "size": 24371940
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.40/brushfall-server-0.1.1-early.40.tar.gz",
+      "sha256": "d0d2dc9e344dd07e032a2e455abdf0d47b32344654b186381d49db634d92afed",
+      "size": 24427497
     }
   },
-  "commit": "026a4ed74a152b6d0a8f9ccdefdc9c0fcf26ce60"
+  "commit": "3731a6e95b0eca674d6e618a70ca9c05f82d501b"
 }
