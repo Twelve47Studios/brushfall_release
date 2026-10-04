@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.45",
-  "published": "2026-10-04T21:22:01.679Z",
-  "notes": "- My own effect icons use the shared effect-art mapping (no unpainted sketches)\n- Follow me leaves the player frame; compact Dab in touch fights; combat text fades over frames; arc and boss b…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.45",
+  "version": "0.1.1-early.46",
+  "published": "2026-10-04T21:41:34.367Z",
+  "notes": "- Drop the touch health ring; low health shows on the player frame itself and as a soft edge vignette",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.46",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.45/brushfall-server-0.1.1-early.45.tar.gz",
-      "sha256": "b39580d566ba293f1606d94cf65f951c222fa4b75fdb01db622ad8a2a54053ca",
-      "size": 24483181
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.46/brushfall-server-0.1.1-early.46.tar.gz",
+      "sha256": "193199247a747dd92f2a22add0858e39407b53b7cbb2a150d2615168b03a56f4",
+      "size": 24481233
     }
   },
-  "commit": "2f683f41753afc5f61afb31228f42b9d47f46c5c"
+  "commit": "5432763fe7eee24d6b396f0888f39a8eb592b5f5"
 }
