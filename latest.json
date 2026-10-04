@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.32",
-  "published": "2026-10-04T19:07:37.861Z",
-  "notes": "- No duplicate upgrade text beside the 'Wear it?' card; admin gifts (online and offline) use the pickup placeme…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.32",
+  "version": "0.1.1-early.33",
+  "published": "2026-10-04T19:10:40.686Z",
+  "notes": "- The Hardcore memorial shows the hit list; hero select's big button is 'Create a New Hero' when every hero has…\n- A reconnect welcomed by a newer server reloads before entering the world\n- The recap's final blow is handed over, never matched by timestamp",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.33",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.32/brushfall-server-0.1.1-early.32.tar.gz",
-      "sha256": "45968cd4a0b44f95c44d730fab9f86e925aaa6aeb6f3814015bcd22c25bc7d64",
-      "size": 24159707
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.33/brushfall-server-0.1.1-early.33.tar.gz",
+      "sha256": "70add9c5b5a0a36022e476a8ae3d05c9e8a8277b8bb982bfcc043e73ca2d5b05",
+      "size": 24160451
     }
   },
-  "commit": "9a4276596bd8bffe31b3372cf118fb804679ebbc"
+  "commit": "b17bd1c696a2d7c634b42d6093ca73cfb4ea3d2e"
 }
