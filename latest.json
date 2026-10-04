@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.21",
-  "published": "2026-10-04T17:01:26.744Z",
-  "notes": "- Bigger landing scraps; hoppers leaving view settle on the ground\n- Jumping on keyboard, controller and touch",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.21",
+  "version": "0.1.1-early.22",
+  "published": "2026-10-04T17:04:22.768Z",
+  "notes": "- Chat bubbles over heroes for received say lines",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.22",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.21/brushfall-server-0.1.1-early.21.tar.gz",
-      "sha256": "06264cd0cdeb28b035bbf8d5534cc0e9419d9dfc8a7bea427e1d4113ffb7f67c",
-      "size": 24062310
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.22/brushfall-server-0.1.1-early.22.tar.gz",
+      "sha256": "6e8178608f168ee22fb7195ceede8fd58b9ae0689b9c449c8a815231a03a37ae",
+      "size": 24073645
     }
   },
-  "commit": "5b244873cdedc66c512dd2a69ea8079068953f3e"
+  "commit": "a2ab9a64c74d20c62272d4ee4d69c1b373c46068"
 }
