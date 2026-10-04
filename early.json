@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.54",
-  "published": "2026-10-04T22:51:33.281Z",
-  "notes": "- Party members can be inspected from anywhere; honest messages instead of 'pick a hero'",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.54",
+  "version": "0.1.1-early.55",
+  "published": "2026-10-04T22:59:18.411Z",
+  "notes": "- Sell gear my class can't use (shared isUnusableForClass, per-hero setting, auto-sell on pickup, manual Sell U…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.55",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.54/brushfall-server-0.1.1-early.54.tar.gz",
-      "sha256": "783c14a4dbc9ea2aff0c168836c1c8f9e61e02ad7cc575f379b4f9853c5007aa",
-      "size": 24545900
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.55/brushfall-server-0.1.1-early.55.tar.gz",
+      "sha256": "91f58133b553f40994f1d826cf65607f795b6da61935425042df25a6448ca94f",
+      "size": 24551959
     }
   },
-  "commit": "0cd5045de8e52cc037ced3e055d34e85b4331c63"
+  "commit": "2f8bada17e2c5fc5aa8a422de2fa437452e92491"
 }
