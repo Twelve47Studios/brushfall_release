@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.49",
-  "published": "2026-10-04T22:19:53.040Z",
-  "notes": "- Player actions menu from party frames and the target frame; party level badge; one-time party hint",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.49",
+  "version": "0.1.1-early.50",
+  "published": "2026-10-04T22:23:53.861Z",
+  "notes": "- Fold a hero's several Paint entries into one 'Paint…' item so the player menu stays social",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.50",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.49/brushfall-server-0.1.1-early.49.tar.gz",
-      "sha256": "8675d5d968eab713f66c10ec3e6018f6a79beb4c173cbdbeb57188228c8bb366",
-      "size": 24494106
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.50/brushfall-server-0.1.1-early.50.tar.gz",
+      "sha256": "b3e482ca40e6a68f2c7b779b2e6df84e7788f60e04207811b81d4fc3872ca94a",
+      "size": 24490906
     }
   },
-  "commit": "139da50b45f03c107262d7e71b4bc8f55f93692d"
+  "commit": "229ab8684b2a02a0bf5865cf46a95a8c1cf70b56"
 }
