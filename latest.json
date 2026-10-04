@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.28",
-  "published": "2026-10-04T18:10:38.354Z",
-  "notes": "- \"Show my chat bubble\" toggle in the chat box and Settings, one-time \"what nearby players see\" hint",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.28",
+  "version": "0.1.1-early.29",
+  "published": "2026-10-04T18:35:57.376Z",
+  "notes": "- Confirm cards focus the safe choice (no reflex Enter/A erasing heroes, items or paintings)\n- Demo skips on click (a tap no longer presses what's underneath); never autosave over an unreadable draft\n- Sent to the Framers! moment, no needless leave warnings, How painting works demo",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.29",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.28/brushfall-server-0.1.1-early.28.tar.gz",
-      "sha256": "7f2d664652c068a99e9de0f450bb7ac1b6c4fa33cc246a5ecde92b87153e7f0d",
-      "size": 24111811
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.29/brushfall-server-0.1.1-early.29.tar.gz",
+      "sha256": "18294f9a2df667a22bf4db75bbcf61b4c4741a2600202f23c474b0909ddaa388",
+      "size": 24129879
     }
   },
-  "commit": "ee3c1dad27141150729cb2141007fa333524027d"
+  "commit": "70452df5d0dd65f88ac0cb215d65e8efc87113fa"
 }
