@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.36",
-  "published": "2026-10-04T20:02:52.458Z",
-  "notes": "- A held stick walks straight with camera-follow on; twist turns the camera; the autopilot never takes a held s…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.36",
+  "version": "0.1.1-early.37",
+  "published": "2026-10-04T20:24:18.973Z",
+  "notes": "- Portrait phones put the quick slots on top of the arc (the resting joystick ring keeps its room); key hint gl…\n- Health and Ink quick slots next to the action bar (touch: by the arc; Sprouts: a big Heal button)\n- Healing tonics share one cooldown (ink tonics another); thrown items' no-target / too-far errors carry a code…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.37",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.36/brushfall-server-0.1.1-early.36.tar.gz",
-      "sha256": "92ecbc66ab1bd8c6ffdd5c674886e4a8c2f5e0187559bdd75f05843bcf2a4ada",
-      "size": 24177307
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.37/brushfall-server-0.1.1-early.37.tar.gz",
+      "sha256": "c3306f6d1d53df42253777ba00d802845b66da180cdff90ad2e9d6570f666cee",
+      "size": 24192124
     }
   },
-  "commit": "d91d17e6a43ec85c7542ea3a43c929237c87b3d4"
+  "commit": "32c52c39b98c077010b9aeb53ec7753179c6c99f"
 }
