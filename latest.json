@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.22",
-  "published": "2026-10-04T17:04:22.768Z",
-  "notes": "- Chat bubbles over heroes for received say lines",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.22",
+  "version": "0.1.1-early.23",
+  "published": "2026-10-04T17:07:08.112Z",
+  "notes": "- Simplify recap wording, title flashing and death card refresh\n- Chat bubbles over heroes for received say lines\n- The recap's mini log shows the health a hit actually took, not the overkill\n- Death recap — who/what smudged you, the last hits, while-away alerts, and rejoin still smudged",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.23",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.22/brushfall-server-0.1.1-early.22.tar.gz",
-      "sha256": "6e8178608f168ee22fb7195ceede8fd58b9ae0689b9c449c8a815231a03a37ae",
-      "size": 24073645
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.23/brushfall-server-0.1.1-early.23.tar.gz",
+      "sha256": "3298b075361411545128bd293fb46d190fb52b7b2c78ab74a89975447ae8b881",
+      "size": 24080564
     }
   },
-  "commit": "a2ab9a64c74d20c62272d4ee4d69c1b373c46068"
+  "commit": "526c1f9c83bfa099917cf1cb1f979f51a809340e"
 }
