@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.41",
-  "published": "2026-10-04T20:51:55.379Z",
-  "notes": "- Jump on the Sprout bar; hops allowed while the autopilot walks",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.41",
+  "version": "0.1.1-early.42",
+  "published": "2026-10-04T20:55:53.248Z",
+  "notes": "- Party frames show each member's painted class icon (on a role-colored disc)",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.42",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.41/brushfall-server-0.1.1-early.41.tar.gz",
-      "sha256": "99407b01c9afb9713cdd2710104d6c877a4f97e1647cd69c1c86f5cb57939f31",
-      "size": 24429820
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.42/brushfall-server-0.1.1-early.42.tar.gz",
+      "sha256": "c1685feb2810ed245a1efe32ed61ba48dfe5ba2515e9de8255bd8f3854bc0cc3",
+      "size": 24429791
     }
   },
-  "commit": "53ca076821c24f8d96a42fccc947136d3154d828"
+  "commit": "7703a59f38dcac4ad7a58ab87780b82ad370c77b"
 }
