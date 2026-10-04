@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.47",
-  "published": "2026-10-04T21:48:34.149Z",
-  "notes": "- Follow works with Sprout autopilot on, joins a friend's dungeon copy, and every refusal says why",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.47",
+  "version": "0.1.1-early.48",
+  "published": "2026-10-04T22:12:26.167Z",
+  "notes": "- No update card when auto-update schedules it; exact login count; repointable review handlers\n- Framers hear about new paintings in game, admins about new versions",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.48",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.47/brushfall-server-0.1.1-early.47.tar.gz",
-      "sha256": "0d3887c62026886b02512e7f62a0bb41cef91d2880d103df692a1458b2eecc3a",
-      "size": 24481656
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.48/brushfall-server-0.1.1-early.48.tar.gz",
+      "sha256": "4c30a2ddd42c64e11617dc2752bbac56966784d48e9a1552241a40ceccf5c5ff",
+      "size": 24488554
     }
   },
-  "commit": "f9d2ae24e1bcfd388d1295f2b6976061a243cd33"
+  "commit": "d0ff32ea956c21da38bf92afe3058119ad365082"
 }
