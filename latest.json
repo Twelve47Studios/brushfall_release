@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.51",
-  "published": "2026-10-04T22:36:57.903Z",
-  "notes": "- Wind-up ripple reads on a phone (blue band, foam crest, ink line, the reach turns to water); death-recap test…\n- Icon-only Inspect button on touch so it never covers Follow\n- Inspect panel, painted icon, entry points (menu, target frame, J), privacy toggles in Settings and Family\n- Server rules, protocol, allowInspect privacy setting and routes\n- Every way a wound-up pulse fires goes through the wind-up (incl. /boss mechanic)\n- Splash Wave winds up for 1.5 s — the Monarch rears up and swells while the water pulls in, then the wave goes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.51",
+  "version": "0.1.1-early.52",
+  "published": "2026-10-04T22:40:58.097Z",
+  "notes": "- Pin the bag actions toolbar outside the scroller; wide two-column layout; right-click and Keep in the item ca…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.52",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.51/brushfall-server-0.1.1-early.51.tar.gz",
-      "sha256": "92056c37edb600a4e310503fd022019ed697f80216140676c42392ffece7af0d",
-      "size": 24513633
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.52/brushfall-server-0.1.1-early.52.tar.gz",
+      "sha256": "da1a0f516a6bf3e4933e849322264b561b8d207d92fbe115b675749c335a7a87",
+      "size": 24512395
     }
   },
-  "commit": "8fd435ba2491577f56b6026ecfc1fcc56cd0ee4b"
+  "commit": "06c6a7b8e768724592d46c87e4749766689ceb31"
 }
