@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.27",
-  "published": "2026-10-04T17:38:42.957Z",
-  "notes": "- Clear chat send channel, party bubbles, no silent 2D renderer fallback, own bubble clear of the touch sheet",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.27",
+  "version": "0.1.1-early.28",
+  "published": "2026-10-04T18:10:38.354Z",
+  "notes": "- \"Show my chat bubble\" toggle in the chat box and Settings, one-time \"what nearby players see\" hint",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.28",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.27/brushfall-server-0.1.1-early.27.tar.gz",
-      "sha256": "40d25b3b510f9af90d92c3636fb4d3c15fb3c5127dde17f3dddf300952d3915c",
-      "size": 24107763
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.28/brushfall-server-0.1.1-early.28.tar.gz",
+      "sha256": "7f2d664652c068a99e9de0f450bb7ac1b6c4fa33cc246a5ecde92b87153e7f0d",
+      "size": 24111811
     }
   },
-  "commit": "4c22de7fa5f25fd19e5df90ab662b4990b4c3df3"
+  "commit": "ee3c1dad27141150729cb2141007fa333524027d"
 }
