@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.30",
-  "published": "2026-10-04T18:45:11.496Z",
-  "notes": "- Guide modes \"Show the way\" vs \"Take me there\"; fix Guide me stopping after a nudge",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.30",
+  "version": "0.1.1-early.31",
+  "published": "2026-10-04T19:03:46.237Z",
+  "notes": "- Take & Equip equips before the burst is sent; Lost & Found finds are look-only; no trade offer from overflow\n- A split stack's remainder stays on the creature intact when the Lost & Found is full\n- Char update before bag_notice so the 'Wear it?' card finds the overflow item; Keep with full bags leaves it s…\n- Bag icon meter + badges, dabs pop, 'Wear it?' overflow cards, Tidy Up, pouch and Lost & Found tabs, Keep junk…\n- Pouches, junk to dabs, overflow, Lost & Found and smarter auto-loot (server + shared rules)",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.31",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.30/brushfall-server-0.1.1-early.30.tar.gz",
-      "sha256": "aca72abb7a5d7ab6519392b5216d6995bb679155e45edab2d108eefea0595815",
-      "size": 24137061
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.31/brushfall-server-0.1.1-early.31.tar.gz",
+      "sha256": "ad13b614bda9e0af091a0df917a7f5c7c19b0778edcd2e13ee9ddffbceacc986",
+      "size": 24157893
     }
   },
-  "commit": "4899530ea320fc35161f29da40d397f5b058b44a"
+  "commit": "70ea14c982d12c1fccb16a88abf7f99af86f13ef"
 }
