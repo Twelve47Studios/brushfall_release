@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.18",
-  "published": "2026-10-04T16:31:25.083Z",
-  "notes": "- Ignore characters' last_online_at when comparing rows (no false 'diverged' conflicts)\n- Join notices when a hero logs in\n- 5-minute heads-up again, plus Update right away and Skip the wait\n- Per-channel freshness, Check now, real What's new for early builds",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.18",
+  "version": "0.1.1-early.19",
+  "published": "2026-10-04T16:48:27.565Z",
+  "notes": "- Auto-target front-first, DoT refresh/stacking rule + auras in snapshots, kiting leash, auto-attack 'too far'…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.19",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.18/brushfall-server-0.1.1-early.18.tar.gz",
-      "sha256": "2acecd3e8f8ca2e8c3fd04e5ed2bf16beb8cd4e1dba57e8bd28e0bf6eaaa1467",
-      "size": 24035031
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.19/brushfall-server-0.1.1-early.19.tar.gz",
+      "sha256": "a4339e76e32e89d3af8aea690d38174e53a556a381eac390d2e416c38ca996e3",
+      "size": 24040341
     }
   },
-  "commit": "b7d5072b27f188b71d1d77bd04afc80c285d61a6"
+  "commit": "e30880e1007ff9bf612e29711441b9c8187f658c"
 }
