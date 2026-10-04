@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.20",
-  "published": "2026-10-04T16:59:01.628Z",
-  "notes": "- Tips wait for the HUD card queue (tipGate); 'abilities splash creatures' tip after an attack at nothing\n- Dab's learn-by-doing tips — each shows in its moment, clears on the action with a Nice!, once per hero",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.20",
+  "version": "0.1.1-early.21",
+  "published": "2026-10-04T17:01:26.744Z",
+  "notes": "- Bigger landing scraps; hoppers leaving view settle on the ground\n- Jumping on keyboard, controller and touch",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.21",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.20/brushfall-server-0.1.1-early.20.tar.gz",
-      "sha256": "3bd8c2a7a09a98546c1cc9f265c04ba40aa9b963282c78c37b1f410efc66edf1",
-      "size": 24055655
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.21/brushfall-server-0.1.1-early.21.tar.gz",
+      "sha256": "06264cd0cdeb28b035bbf8d5534cc0e9419d9dfc8a7bea427e1d4113ffb7f67c",
+      "size": 24062310
     }
   },
-  "commit": "b216967c420ececf514597b3c860048d806fe5c7"
+  "commit": "5b244873cdedc66c512dd2a69ea8079068953f3e"
 }
