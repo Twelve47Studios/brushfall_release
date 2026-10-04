@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.55",
-  "published": "2026-10-04T22:59:18.411Z",
-  "notes": "- Sell gear my class can't use (shared isUnusableForClass, per-hero setting, auto-sell on pickup, manual Sell U…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.55",
+  "version": "0.1.1-early.56",
+  "published": "2026-10-04T23:06:32.455Z",
+  "notes": "- Finished weekly commission is done-for-now (folded quest-log line, calm dialog state, live week reset)",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.56",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.55/brushfall-server-0.1.1-early.55.tar.gz",
-      "sha256": "91f58133b553f40994f1d826cf65607f795b6da61935425042df25a6448ca94f",
-      "size": 24551959
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.56/brushfall-server-0.1.1-early.56.tar.gz",
+      "sha256": "9727765f0f9d7a2d7a667426dc66a53dacb3cba2c39bd716a6bb4e08218a9100",
+      "size": 24553607
     }
   },
-  "commit": "2f8bada17e2c5fc5aa8a422de2fa437452e92491"
+  "commit": "a4721204b5d847cd802f642adad7848b7feff219"
 }
