@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.40",
-  "published": "2026-10-04T20:47:12.323Z",
-  "notes": "- Painted HUD icons (ui/icon/*) replace emoji and pictographic glyphs",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.40",
+  "version": "0.1.1-early.41",
+  "published": "2026-10-04T20:51:55.379Z",
+  "notes": "- Jump on the Sprout bar; hops allowed while the autopilot walks",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.41",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.40/brushfall-server-0.1.1-early.40.tar.gz",
-      "sha256": "d0d2dc9e344dd07e032a2e455abdf0d47b32344654b186381d49db634d92afed",
-      "size": 24427497
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.41/brushfall-server-0.1.1-early.41.tar.gz",
+      "sha256": "99407b01c9afb9713cdd2710104d6c877a4f97e1647cd69c1c86f5cb57939f31",
+      "size": 24429820
     }
   },
-  "commit": "3731a6e95b0eca674d6e618a70ca9c05f82d501b"
+  "commit": "53ca076821c24f8d96a42fccc947136d3154d828"
 }
