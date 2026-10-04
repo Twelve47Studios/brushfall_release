@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.13",
-  "published": "2026-10-04T15:56:07.794Z",
-  "notes": "Early build of commit 2849f2c: the newest changes, straight from the workshop. Might be a little rough.",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.13",
+  "version": "0.1.1-early.14",
+  "published": "2026-10-04T15:59:50.973Z",
+  "notes": "Early build of commit 235682f: the newest changes, straight from the workshop. Might be a little rough.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.14",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.13/brushfall-server-0.1.1-early.13.tar.gz",
-      "sha256": "e40a1434b0c4ffc8cbb39f72926ffc4c0b32590b1a88c0a637215842f66d7c9b",
-      "size": 21427829
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.14/brushfall-server-0.1.1-early.14.tar.gz",
+      "sha256": "d43de56fc79c765f052aa491b1b971a93278984940c5d417341072146778e43a",
+      "size": 21427844
     }
   },
-  "commit": "2849f2c1ba6461adad54f3cabb31432e081a734c"
+  "commit": "235682f38bb8064b54dbb498709c1d52ceeefae2"
 }
