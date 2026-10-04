@@ -1,0 +1,62 @@
+# Brushfall Realm Link: two (or more) households run the same world. Use this file at EACH household.
+# Step-by-step guide: https://github.com/Twelve47Studios/brushfall_release/wiki/Realm-Link
+#
+#   1. In Cloudflare, make ONE "play" tunnel with public hostname play.example.com -> http://brushfall:8080.
+#      Every household uses the SAME PLAY_TUNNEL_TOKEN (that makes the connectors replicas).
+#   2. Make a SEPARATE "link" tunnel per household (a.link.example.com, b.link.example.com) -> http://brushfall:8080.
+#      Each household uses its OWN LINK_TUNNEL_TOKEN and LINK_URL.
+#   3. docker compose -f docker-compose.link.yml up -d, then pair in the Studio Desk (Link tab).
+#
+# Tailscale instead of a link tunnel: drop cloudflared-link and set LINK_URL=http://100.x.y.z:8080
+# (private 100.64.0.0/10 and LAN addresses are allowed over http).
+
+services:
+  brushfall:
+    image: ghcr.io/twelve47studios/brushfall:${BRUSHFALL_TAG:-latest}
+    container_name: brushfall
+    restart: unless-stopped
+    environment:
+      DATA_DIR: /data
+      PORT: 8080
+      TRUST_PROXY: "1"
+      # The address players use: the SAME on every household.
+      PUBLIC_URL: ${PUBLIC_URL:-https://play.example.com}
+      # How OTHER households' servers reach THIS one: different at each household.
+      LINK_URL: ${LINK_URL:-https://a.link.example.com}
+      # Higher leads. Give the always-on household the highest number (e.g. 200 here, 100 there).
+      LINK_PRIORITY: ${LINK_PRIORITY:-100}
+      # Optional instead of pairing in the Studio Desk (32+ characters, same at every household):
+      LINK_SECRET: ${LINK_SECRET:-}
+      LINK_PEERS: ${LINK_PEERS:-}
+      SERVER_NAME: ${SERVER_NAME:-}
+      REGISTRATION: ${REGISTRATION:-}
+      ADMIN_USERNAME: ${ADMIN_USERNAME:-}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+    # Only the tunnels need to reach it; keep the plain port on this computer.
+    ports:
+      - "127.0.0.1:${BRUSHFALL_PORT:-8080}:8080"
+    volumes:
+      - brushfall-data:/data
+    stop_grace_period: 30s
+
+  cloudflared-play:
+    # Shared player tunnel: same token at every household = replicas. Cloudflare sends
+    # each player to a household that's up, and any server forwards them to the leader.
+    image: cloudflare/cloudflared:latest
+    restart: unless-stopped
+    depends_on: [brushfall]
+    command: tunnel --no-autoupdate run
+    environment:
+      TUNNEL_TOKEN: ${PLAY_TUNNEL_TOKEN:-}
+
+  cloudflared-link:
+    # This household's own tunnel for server-to-server traffic (LINK_URL).
+    image: cloudflare/cloudflared:latest
+    restart: unless-stopped
+    depends_on: [brushfall]
+    command: tunnel --no-autoupdate run
+    environment:
+      TUNNEL_TOKEN: ${LINK_TUNNEL_TOKEN:-}
+
+volumes:
+  brushfall-data:

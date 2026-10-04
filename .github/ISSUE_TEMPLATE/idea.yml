@@ -1,0 +1,41 @@
+name: I have an idea
+description: A new quest, a creature, a setting for parents, something kinder or sillier. Kids' ideas very welcome!
+title: "[idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We love ideas, especially ones from young painters. Please keep real names and personal details out of it.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your idea?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it be fun or helpful?
+      description: Who is it for? A kid, a parent, the host, everyone?
+  - type: dropdown
+    id: area
+    attributes:
+      label: What part of Brushfall is it about?
+      options:
+        - The world, quests and creatures
+        - Heroes, classes and abilities
+        - Painting and the Atelier
+        - Playing together (parties, chat, families)
+        - Kid safety and parent controls
+        - Hosting and the Studio Desk
+        - Something else
+  - type: dropdown
+    id: who
+    attributes:
+      label: Whose idea is it?
+      options:
+        - Mine
+        - My kid's
+        - Our family's
+        - Someone who plays on my server

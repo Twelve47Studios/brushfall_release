@@ -1,0 +1,64 @@
+name: Help with hosting
+description: Stuck setting up, reaching, backing up or updating your server? Ask here.
+title: "[hosting] "
+labels: ["hosting-help"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Happy to help! Two quick things first:
+
+        - The [Troubleshooting](https://github.com/Twelve47Studios/brushfall_release/wiki/Troubleshooting) and [FAQ](https://github.com/Twelve47Studios/brushfall_release/wiki/FAQ) pages answer the most common questions.
+        - Running `brushfall doctor` checks your computer and often says exactly what to fix.
+
+        **Please don't paste passwords, invite links, tunnel tokens, Tailscale keys, `SMTP_URL`, webhook addresses or your `.admin-token`.** If you paste your `.env`, remove those lines first.
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do?
+      placeholder: "Let my parents play from their house" / "Get my iPad to connect" / "Restore last night's backup"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What went wrong?
+      description: What did you try, and what did you see? Exact error messages help.
+    validations:
+      required: true
+  - type: dropdown
+    id: install
+    attributes:
+      label: How do you run your server?
+      options:
+        - Docker on Windows
+        - Docker on macOS
+        - Docker on Linux
+        - Docker on a Raspberry Pi
+        - Download (start.cmd / start.sh)
+        - Not set up yet
+    validations:
+      required: true
+  - type: dropdown
+    id: reach
+    attributes:
+      label: How do people reach it?
+      options:
+        - Only at home, on our Wi-Fi
+        - Cloudflare Tunnel
+        - Tailscale
+        - Caddy / my own domain
+        - Something else
+  - type: input
+    id: version
+    attributes:
+      label: Brushfall version
+      description: Shown in the Studio Desk (Overview), or run `brushfall status`.
+  - type: textarea
+    id: output
+    attributes:
+      label: "Output of `brushfall doctor` and `brushfall status` (optional)"
+      description: |
+        Docker: `docker compose exec brushfall brushfall doctor`. Download: `node brushfall.mjs doctor`.
+        For Docker problems, the last lines of `docker compose logs brushfall` help too.
+      render: text

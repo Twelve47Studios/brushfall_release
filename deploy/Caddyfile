@@ -1,0 +1,7 @@
+# Caddy gets and renews a free HTTPS certificate automatically.
+# Set BRUSHFALL_DOMAIN (e.g. brushfall.example.com) in .env, and point that domain at this machine.
+{$BRUSHFALL_DOMAIN} {
+	encode zstd gzip
+	# WebSockets are proxied automatically.
+	reverse_proxy brushfall:8080
+}

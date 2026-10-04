@@ -1,0 +1,12 @@
+# Blank issues stay enabled: the Studio Desk's "Open a public issue instead" button opens a pre-filled blank issue.
+blank_issues_enabled: true
+contact_links:
+  - name: Hosting guide and FAQ (wiki)
+    url: https://github.com/Twelve47Studios/brushfall_release/wiki
+    about: Step-by-step setup for Windows, macOS, Linux and Raspberry Pi, kid safety, backups, troubleshooting and the FAQ.
+  - name: Report a security problem privately
+    url: https://github.com/Twelve47Studios/brushfall_release/security/advisories/new
+    about: Please don't post security problems in public issues.
+  - name: Email the Brushfall project
+    url: mailto:brushfallgame@gmail.com
+    about: Questions you'd rather not ask in public. Please never send passwords or invite links.

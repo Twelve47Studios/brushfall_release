@@ -1,0 +1,68 @@
+name: Something's broken
+description: Report a bug in the game, the Studio Desk or the server.
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make Brushfall better!
+
+        **Please don't include passwords, invite links, `.admin-token`, backups, or anyone's real name or personal details.**
+        Found a security problem? Please report it privately instead (see SECURITY.md).
+
+        Tip: in the Studio Desk, open the report under **Reports** and press **Send to the Brushfall team**. It fills in the details for you.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Tell us what you saw, and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we make it happen?
+      description: The steps, if you know them. "Sometimes, at random" is fine too.
+      placeholder: |
+        1. Go to Wetwash
+        2. Talk to ...
+        3. ...
+  - type: input
+    id: version
+    attributes:
+      label: Brushfall version
+      description: Shown in the Studio Desk (Overview), or run `brushfall status`.
+      placeholder: "0.2.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did it happen?
+      multiple: true
+      options:
+        - In the game
+        - In the Atelier (painting)
+        - In the Studio Desk (admin panel)
+        - Starting or updating the server
+        - Somewhere else
+  - type: dropdown
+    id: install
+    attributes:
+      label: How do you run your server?
+      options:
+        - Docker
+        - Download (start.cmd / start.sh)
+        - Raspberry Pi
+        - Not sure / I'm a player, not the host
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser (for game problems)
+      placeholder: "iPad, Safari / Windows laptop, Chrome / Android phone, Firefox"
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots help a lot. For server problems, the output of `brushfall doctor` is useful (check it for anything private first).

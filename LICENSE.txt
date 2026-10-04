@@ -1,0 +1,106 @@
+=====================================================================
+  DRAFT - NOT YET REVIEWED BY A LAWYER. HAVE A LAWYER REVIEW THIS
+  BEFORE PUBLIC RELEASE. It is a plain-language starting point only.
+=====================================================================
+
+BRUSHFALL SERVER - END USER LICENSE AGREEMENT (DRAFT)
+
+Copyright (c) 2026 Twelve47 Studios. All rights reserved.
+
+Brushfall, including the server software, the game client, the host
+command-line tool, the Studio Desk admin panel and the default art set
+(together, "the Software"), is proprietary software owned by Twelve47
+Studios ("we", "us"). By installing, copying or running the Software,
+you ("you", "the host") agree to these terms. If you do not agree, do
+not install or use the Software.
+
+1. WHAT YOU MAY DO (THE LICENSE)
+   We grant you a free, personal, non-exclusive, non-transferable,
+   revocable license to install and run the Software on computers you
+   own or control in order to host Brushfall for yourself, your family,
+   your friends, or a non-commercial community, and to let those people
+   play on your server.
+
+2. NON-COMMERCIAL ONLY
+   You may not charge for access to your server, sell or rent the
+   Software or hosting of it, run it as a paid service, or use it for
+   any other commercial purpose, unless we agree in writing. Accepting
+   voluntary donations to cover your own hosting costs (see section 6)
+   is not commercial use, as long as nobody receives anything in the
+   game in return.
+
+3. WHAT YOU MAY NOT DO
+   Except as this license expressly allows, or as applicable law permits
+   despite this limitation, you may not:
+   a) copy, share, redistribute, publish, sell, sublicense or host the
+      Software for download by others (point people to our official
+      downloads instead);
+   b) modify, adapt, translate or create derivative works of the server
+      or client code;
+   c) reverse engineer, decompile, disassemble or otherwise try to
+      derive source code from the Software, or remove its minification
+      or obfuscation;
+   d) remove or change any copyright, license or attribution notices;
+   e) use the Software to build a competing product, or use our names,
+      logos or trademarks except to accurately say that your server runs
+      Brushfall.
+
+4. YOUR ART AND CUSTOMIZATION (EXPRESSLY ALLOWED)
+   Brushfall is meant to be painted by the people who play it. You and
+   your players may:
+   a) create, edit and replace art using the in-game Atelier, and
+      approve it through the Studio Desk;
+   b) add or replace image files in the art/ folder of your install,
+      and configure your server through brushfall.config.json and
+      environment variables;
+   c) keep all rights to the original art you create, and share,
+      publish or license your own art however you like.
+   By submitting art to a server, a player lets that server's host
+   display it to the server's players. Art does not become ours unless
+   you choose to send it to us. The default art set remains ours and is
+   covered by section 3.
+
+5. YOUR DATA
+   Your world (accounts, characters, paintings, reports and backups)
+   lives on your own computer, in your data folder. The Software does
+   not send that data to us. The Software may contact public services
+   to check for updates (for example our container registry or update
+   feed). Anything you choose to forward to us, such as a bug report,
+   is sent by you, through your own browser or mail client.
+
+6. DONATIONS ARE VOLUNTARY
+   Donations to Twelve47 Studios, or to a server host, are entirely
+   voluntary gifts. They do not buy the Software, grant any license,
+   rights, support obligations, priority, or anything inside the game.
+
+7. UPDATES
+   We may release updates. Updates are covered by this license unless
+   they come with different terms. We are not obliged to provide
+   updates or support.
+
+8. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+   OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT. YOU ARE RESPONSIBLE FOR YOUR SERVER, ITS SECURITY,
+   ITS BACKUPS, AND HOW YOU MODERATE IT.
+
+9. LIMITATION OF LIABILITY
+   TO THE FULLEST EXTENT PERMITTED BY LAW, TWELVE47 STUDIOS WILL NOT BE
+   LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR
+   PUNITIVE DAMAGES, OR ANY LOSS OF DATA, PROFITS OR GOODWILL, ARISING
+   FROM OR RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY.
+
+10. ENDING THIS LICENSE
+   This license ends automatically if you break these terms. When it
+   ends, you must stop running the Software and delete your copies of
+   it. Your own data and your own art remain yours.
+
+11. GENERAL
+   If any part of this agreement is found unenforceable, the rest stays
+   in effect. This is the entire agreement about the Software between
+   you and us. [TODO(lawyer): governing law and venue; consumer-law
+   carve-outs for relevant jurisdictions; children's privacy (COPPA /
+   GDPR-K) responsibilities of hosts.]
+
+Questions: brushfallgame@gmail.com

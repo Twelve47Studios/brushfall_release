@@ -1,0 +1,107 @@
+# Brushfall: self-hosting with Docker Compose.
+#
+#   put a .env file next to this one (server name, invite codes, ...; see the wiki: https://github.com/Twelve47Studios/brushfall_release/wiki)
+#   docker compose up -d             # http://localhost:8080
+#
+# Reaching it from outside your home (pick one; see https://github.com/Twelve47Studios/brushfall_release/wiki/Playing-From-Outside-Home):
+#   docker compose --profile tunnel up -d      Cloudflare Tunnel (TUNNEL_TOKEN; free account + domain)
+#   docker compose --profile tailscale up -d   Tailscale (TS_AUTHKEY; private to your tailnet, or Funnel)
+#   docker compose --profile https up -d       Caddy on a VPS/home server with ports 80/443 open (BRUSHFALL_DOMAIN)
+#
+# Update:  docker compose pull && docker compose up -d
+
+services:
+  brushfall:
+    image: ghcr.io/twelve47studios/brushfall:${BRUSHFALL_TAG:-latest}
+    container_name: brushfall
+    restart: unless-stopped
+    # Values come from .env (optional; copy .env.example to .env). Empty = use the config file / default.
+    environment:
+      DATA_DIR: /data
+      PORT: 8080
+      SERVER_NAME: ${SERVER_NAME:-}
+      MOTD: ${MOTD:-}
+      PUBLIC_URL: ${PUBLIC_URL:-}
+      REGISTRATION: ${REGISTRATION:-}
+      INVITE_CODES: ${INVITE_CODES:-}
+      ENABLED_REALMS: ${ENABLED_REALMS:-}
+      ADMIN_USERNAME: ${ADMIN_USERNAME:-}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      TRUST_PROXY: ${TRUST_PROXY:-}
+      BACKUP_INTERVAL_HOURS: ${BACKUP_INTERVAL_HOURS:-}
+      BACKUP_KEEP: ${BACKUP_KEEP:-}
+      DONATE_URL_PROJECT: ${DONATE_URL_PROJECT:-}
+      DONATE_URL_HOST: ${DONATE_URL_HOST:-}
+      REPORT_WEBHOOK_URL: ${REPORT_WEBHOOK_URL:-}
+      REPORT_WEBHOOK_KIND: ${REPORT_WEBHOOK_KIND:-}
+      SMTP_URL: ${SMTP_URL:-}
+      REPORT_EMAIL_TO: ${REPORT_EMAIL_TO:-}
+      REPORT_EMAIL_FROM: ${REPORT_EMAIL_FROM:-}
+      UPDATE_FEED_URL: ${UPDATE_FEED_URL:-}
+      PUBLIC_ISSUES_URL: ${PUBLIC_ISSUES_URL:-}
+      DEFAULT_CHAT_MODE: ${DEFAULT_CHAT_MODE:-}
+      MAX_PLAYERS: ${MAX_PLAYERS:-}
+      REGISTRATION_CAPTCHA: ${REGISTRATION_CAPTCHA:-}
+      TLS: ${TLS:-}
+      TLS_CERT: ${TLS_CERT:-}
+      TLS_KEY: ${TLS_KEY:-}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-}
+      MAX_CONN_PER_IP: ${MAX_CONN_PER_IP:-}
+      MEASURE_BANDWIDTH: ${MEASURE_BANDWIDTH:-}
+    ports:
+      # Only reachable through the tunnel/Tailscale? Use "127.0.0.1:${BRUSHFALL_PORT:-8080}:8080" instead.
+      - "${BRUSHFALL_PORT:-8080}:8080"
+    volumes:
+      - brushfall-data:/data
+    stop_grace_period: 30s
+
+  caddy:
+    image: caddy:2-alpine
+    profiles: ["https"]
+    restart: unless-stopped
+    depends_on:
+      - brushfall
+    environment:
+      BRUSHFALL_DOMAIN: ${BRUSHFALL_DOMAIN:-localhost}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    profiles: ["tunnel"]
+    restart: unless-stopped
+    depends_on:
+      - brushfall
+    # In the Cloudflare dashboard, point the tunnel's public hostname at http://brushfall:8080
+    command: tunnel --no-autoupdate run
+    environment:
+      TUNNEL_TOKEN: ${TUNNEL_TOKEN:-}
+
+  tailscale:
+    image: tailscale/tailscale:latest
+    profiles: ["tailscale"]
+    hostname: ${TS_HOSTNAME:-brushfall}
+    restart: unless-stopped
+    depends_on:
+      - brushfall
+    environment:
+      TS_AUTHKEY: ${TS_AUTHKEY:-}
+      TS_STATE_DIR: /var/lib/tailscale
+      TS_USERSPACE: "true"
+      TS_SERVE_CONFIG: /config/serve.json
+    volumes:
+      - tailscale-state:/var/lib/tailscale
+      # tailscale-serve.json = only your tailnet; tailscale-funnel.json = public HTTPS on *.ts.net
+      - ./deploy/${TS_SERVE_FILE:-tailscale-serve.json}:/config/serve.json:ro
+
+volumes:
+  brushfall-data:
+  caddy-data:
+  caddy-config:
+  tailscale-state:
