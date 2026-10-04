@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.48",
-  "published": "2026-10-04T22:12:26.167Z",
-  "notes": "- No update card when auto-update schedules it; exact login count; repointable review handlers\n- Framers hear about new paintings in game, admins about new versions",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.48",
+  "version": "0.1.1-early.49",
+  "published": "2026-10-04T22:19:53.040Z",
+  "notes": "- Player actions menu from party frames and the target frame; party level badge; one-time party hint",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.49",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.48/brushfall-server-0.1.1-early.48.tar.gz",
-      "sha256": "4c30a2ddd42c64e11617dc2752bbac56966784d48e9a1552241a40ceccf5c5ff",
-      "size": 24488554
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.49/brushfall-server-0.1.1-early.49.tar.gz",
+      "sha256": "8675d5d968eab713f66c10ec3e6018f6a79beb4c173cbdbeb57188228c8bb366",
+      "size": 24494106
     }
   },
-  "commit": "d0ff32ea956c21da38bf92afe3058119ad365082"
+  "commit": "139da50b45f03c107262d7e71b4bc8f55f93692d"
 }
