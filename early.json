@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.26",
-  "published": "2026-10-04T17:27:01.672Z",
-  "notes": "- Parties survive restarts and long disconnects",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.26",
+  "version": "0.1.1-early.27",
+  "published": "2026-10-04T17:38:42.957Z",
+  "notes": "- Clear chat send channel, party bubbles, no silent 2D renderer fallback, own bubble clear of the touch sheet",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.27",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.26/brushfall-server-0.1.1-early.26.tar.gz",
-      "sha256": "383b94c05aa586d1abf9a3220256cf41b05112a9c893c965c8af3975f1a41e55",
-      "size": 24103688
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.27/brushfall-server-0.1.1-early.27.tar.gz",
+      "sha256": "40d25b3b510f9af90d92c3636fb4d3c15fb3c5127dde17f3dddf300952d3915c",
+      "size": 24107763
     }
   },
-  "commit": "c7a0623a7e0c5c6800034a7658c12e500b5e5e39"
+  "commit": "4c22de7fa5f25fd19e5df90ab662b4990b4c3df3"
 }
