@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.53",
-  "published": "2026-10-04T22:45:33.006Z",
-  "notes": "- A new search while the list is loading replaces it instead of being dropped\n- Staff notices open the in-game Studio; one badge on the Studio button\n- Actions visible without scrolling (compact header, capped previews); phone order follows the thumb\n- In-game Studio for staff: paintings queue, new players, roles, server updates and restarts",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.53",
+  "version": "0.1.1-early.54",
+  "published": "2026-10-04T22:51:33.281Z",
+  "notes": "- Party members can be inspected from anywhere; honest messages instead of 'pick a hero'",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.54",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.53/brushfall-server-0.1.1-early.53.tar.gz",
-      "sha256": "46fd31eabb5b94dca962adb0f12c62195a51b8a54e3f9f3770591fd90d185e22",
-      "size": 24547480
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.54/brushfall-server-0.1.1-early.54.tar.gz",
+      "sha256": "783c14a4dbc9ea2aff0c168836c1c8f9e61e02ad7cc575f379b4f9853c5007aa",
+      "size": 24545900
     }
   },
-  "commit": "5a99673f714e537ed7dfd72297feacaf0f0cbc0e"
+  "commit": "0cd5045de8e52cc037ced3e055d34e85b4331c63"
 }
