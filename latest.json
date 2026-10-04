@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.42",
-  "published": "2026-10-04T20:55:53.248Z",
-  "notes": "- Party frames show each member's painted class icon (on a role-colored disc)",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.42",
+  "version": "0.1.1-early.43",
+  "published": "2026-10-04T21:02:28.880Z",
+  "notes": "- Cards, toasts and chat lines keep clear of the player AND party frames on desktop and phones; lime fume cloud…\n- Own health always readable on phones; every Monarch mechanic visible before or as it hits",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.43",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.42/brushfall-server-0.1.1-early.42.tar.gz",
-      "sha256": "c1685feb2810ed245a1efe32ed61ba48dfe5ba2515e9de8255bd8f3854bc0cc3",
-      "size": 24429791
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.43/brushfall-server-0.1.1-early.43.tar.gz",
+      "sha256": "dd8fbf0306151cdcbb41df2617154711a9a39d09b0a0f0aea0396d729d141338",
+      "size": 24455909
     }
   },
-  "commit": "7703a59f38dcac4ad7a58ab87780b82ad370c77b"
+  "commit": "c30822c650241a31e52c8f3d7d2c7a4b8b7db644"
 }
