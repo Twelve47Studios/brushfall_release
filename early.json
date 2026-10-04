@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.37",
-  "published": "2026-10-04T20:24:18.973Z",
-  "notes": "- Portrait phones put the quick slots on top of the arc (the resting joystick ring keeps its room); key hint gl…\n- Health and Ink quick slots next to the action bar (touch: by the arc; Sprouts: a big Heal button)\n- Healing tonics share one cooldown (ink tonics another); thrown items' no-target / too-far errors carry a code…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.37",
+  "version": "0.1.1-early.38",
+  "published": "2026-10-04T20:28:02.081Z",
+  "notes": "- The report screenshot shows the whole view (world + HUD), taken before the dialog\n- Self-host the web fonts (no Google requests); CSP drops Google",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.38",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.37/brushfall-server-0.1.1-early.37.tar.gz",
-      "sha256": "c3306f6d1d53df42253777ba00d802845b66da180cdff90ad2e9d6570f666cee",
-      "size": 24192124
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.38/brushfall-server-0.1.1-early.38.tar.gz",
+      "sha256": "92d9fe09fba99e901c45a9b27ebb480383ffc486acaa5d29dcb4025fe265eff7",
+      "size": 24354853
     }
   },
-  "commit": "32c52c39b98c077010b9aeb53ec7753179c6c99f"
+  "commit": "ca5a8ee95b97c399b32777bfaa5587b4e0dc6bbb"
 }
