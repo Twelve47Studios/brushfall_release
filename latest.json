@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.56",
-  "published": "2026-10-04T23:06:32.455Z",
-  "notes": "- Finished weekly commission is done-for-now (folded quest-log line, calm dialog state, live week reset)",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.56",
+  "version": "0.1.1-early.57",
+  "published": "2026-10-04T23:20:33.704Z",
+  "notes": "- Unmistakable Next arrow (ink disc, hover/pressed/focus, idle nudge, bigger hit area), no phantom scrollbar, r…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.57",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.56/brushfall-server-0.1.1-early.56.tar.gz",
-      "sha256": "9727765f0f9d7a2d7a667426dc66a53dacb3cba2c39bd716a6bb4e08218a9100",
-      "size": 24553607
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.57/brushfall-server-0.1.1-early.57.tar.gz",
+      "sha256": "87d34e7e786430bf7716b8826de730df146ee5d2e57946762cce27d437a8f1ee",
+      "size": 24555404
     }
   },
-  "commit": "a4721204b5d847cd802f642adad7848b7feff219"
+  "commit": "32992b0b18cb38b465e587f24bb36815c1f12d52"
 }
