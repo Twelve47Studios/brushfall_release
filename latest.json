@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.24",
-  "published": "2026-10-04T17:15:50.234Z",
-  "notes": "- Napping painters — away heroes out of combat aren't attacked by creatures",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.24",
+  "version": "0.1.1-early.25",
+  "published": "2026-10-04T17:23:29.033Z",
+  "notes": "- A refused Accept no longer silences quest toasts (one-shot accept line); Masterpiece loot sits in the card sl…\n- No duplicate \"Quest accepted\" toast over the dialog; the trail ✕ moves to the quick buttons on small screens;…\n- The trail chip — any painted trail shows \"Trail: …\" / \"Guiding: …\" with a big ✕ that hides it\n- Dab's tips wait while a card is up (tipGate wired to the HUD card queue)\n- Use the shared AuraSnap / autoAttackFar / SysCode types now that Gameplay's protocol is on main\n- Effects on the target (icon, time, stacks, yours marked), auto-attack swing badge + \"Too far\" with the reach…\n- \"Quest accepted!\" summary in the NPC dialog — quest name, first step in plain words, big Got it! (default foc…\n- One card at a time — a card queue for invitations, quest offers, update notices, chronicle pages and celebrat…\n- …and 1 smaller fix",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.25",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.24/brushfall-server-0.1.1-early.24.tar.gz",
-      "sha256": "73ad6e4a271132f3b756defa378d7c87fdf6248dd156840334ae8110280be0e5",
-      "size": 24084856
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.25/brushfall-server-0.1.1-early.25.tar.gz",
+      "sha256": "9a9d29a683aee9100463cd0ad29e9cd0749d0c1dbb64241b5c121be4d948a379",
+      "size": 24103344
     }
   },
-  "commit": "8e32e14213417c363a4815a9144b0b9fb2064527"
+  "commit": "a616a024389b454fe74fb527c4de80e5c37d58de"
 }
