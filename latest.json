@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.57",
-  "published": "2026-10-04T23:20:33.704Z",
-  "notes": "- Unmistakable Next arrow (ink disc, hover/pressed/focus, idle nudge, bigger hit area), no phantom scrollbar, r…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.57",
+  "version": "0.1.1-early.58",
+  "published": "2026-10-04T23:58:08.562Z",
+  "notes": "- Count DISTINCT painted assets for milestones, the chronicle and painter ranks",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.58",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.57/brushfall-server-0.1.1-early.57.tar.gz",
-      "sha256": "87d34e7e786430bf7716b8826de730df146ee5d2e57946762cce27d437a8f1ee",
-      "size": 24555404
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.58/brushfall-server-0.1.1-early.58.tar.gz",
+      "sha256": "e5ea5f8411e2a84872f026c843319a21f10e607e5f8ef81d9e8757bd4f8acc38",
+      "size": 24555449
     }
   },
-  "commit": "32992b0b18cb38b465e587f24bb36815c1f12d52"
+  "commit": "5f72e540b668ddd9f2f4286acc9165a89d13bb25"
 }
