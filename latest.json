@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.34",
-  "published": "2026-10-04T19:14:22.594Z",
-  "notes": "- Slash commands reach the server (moderator /mute etc. and test-world commands); unknown ones get help, never…\n- Service worker never serves /art/manifest.json from cache (approved paintings showed old art after a reload)",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.34",
+  "version": "0.1.1-early.35",
+  "published": "2026-10-04T19:34:18.659Z",
+  "notes": "- Chaser arrows use the shared heroDown rule\n- Chaser arrows toward creatures after you that you can't see (off screen or under the HUD); big models fade to…\n- Dab hides while the hero is down (death card, Hardcore memorial): no tip or line dimmed behind the card; tips…\n- A full snapshot drops ghosts (reconnect to a restarted server): entities, samples, auras, target; persisting…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.35",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.34/brushfall-server-0.1.1-early.34.tar.gz",
-      "sha256": "4283fc4a772188cd94ed7508f21dd1d83d327f38dbb68ac5570f8f16f9a48b58",
-      "size": 24161942
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.35/brushfall-server-0.1.1-early.35.tar.gz",
+      "sha256": "13e1a3053ae12b79c4e0264d609e83aa2f993168459ea5040314b64c4f594d5f",
+      "size": 24175350
     }
   },
-  "commit": "7f0f522755bcec7795ca8830371a2344fcec6a33"
+  "commit": "1d0321c2b16b752eb88a81e3181d2126c6bcc55c"
 }
