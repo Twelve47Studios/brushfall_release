@@ -1,0 +1,9 @@
+Brushfall "Read to me" voices
+
+Generated at build time with Piper (https://github.com/OHF-Voice/piper1-gpl) from these voice models:
+- en_US-kristin-medium, en_US-ljspeech-high, en_US-norman-medium, en_US-john-medium, en_GB-cori-high:
+  trained on public-domain recordings (LibriVox, LJ Speech).
+- en_US-libritts-high: trained on the LibriTTS corpus by Heiga Zen, Viet Dang, Rob Clark, Yu Zhang, Ron J. Weiss,
+  Ye Jia, Zhifeng Chen and Yonghui Wu (2019), https://www.openslr.org/60/ , licensed under Creative Commons
+  Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). The voices here are new speech
+  synthesized from a model trained on that corpus; no LibriTTS recordings are included.
