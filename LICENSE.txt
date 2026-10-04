@@ -117,10 +117,11 @@ Software.
    10, 11 and 13 continue after this license ends.
 
 13. GENERAL
-   This agreement is governed by the laws of the place where we are
-   based, without regard to its conflict-of-laws rules, and disputes
-   will be resolved in the courts there, except where the consumer laws
-   where you live give you the right to bring a claim locally. If any
+   This agreement is governed by the laws of the State of California,
+   USA, without regard to its conflict-of-laws rules, and disputes will
+   be resolved in the state or federal courts located in California,
+   except where the consumer laws where you live give you the right to
+   bring a claim locally. If any
    part of this agreement is found unenforceable, the rest stays in
    effect. Not enforcing a part of this agreement is not a waiver. We
    may update these terms for future versions of the Software; the
