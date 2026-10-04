@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.23",
-  "published": "2026-10-04T17:07:08.112Z",
-  "notes": "- Simplify recap wording, title flashing and death card refresh\n- Chat bubbles over heroes for received say lines\n- The recap's mini log shows the health a hit actually took, not the overkill\n- Death recap — who/what smudged you, the last hits, while-away alerts, and rejoin still smudged",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.23",
+  "version": "0.1.1-early.24",
+  "published": "2026-10-04T17:15:50.234Z",
+  "notes": "- Napping painters — away heroes out of combat aren't attacked by creatures",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.24",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.23/brushfall-server-0.1.1-early.23.tar.gz",
-      "sha256": "3298b075361411545128bd293fb46d190fb52b7b2c78ab74a89975447ae8b881",
-      "size": 24080564
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.24/brushfall-server-0.1.1-early.24.tar.gz",
+      "sha256": "73ad6e4a271132f3b756defa378d7c87fdf6248dd156840334ae8110280be0e5",
+      "size": 24084856
     }
   },
-  "commit": "526c1f9c83bfa099917cf1cb1f979f51a809340e"
+  "commit": "8e32e14213417c363a4815a9144b0b9fb2064527"
 }
