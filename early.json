@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.43",
-  "published": "2026-10-04T21:02:28.880Z",
-  "notes": "- Cards, toasts and chat lines keep clear of the player AND party frames on desktop and phones; lime fume cloud…\n- Own health always readable on phones; every Monarch mechanic visible before or as it hits",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.43",
+  "version": "0.1.1-early.44",
+  "published": "2026-10-04T21:12:05.561Z",
+  "notes": "- An unpinned quest returns to its own place even when moves happened before any order was saved\n- The quest tracker finds the tallest clear spot, yields to its line beside an open party list\n- Quest tracker scrolls, pins to top, reorders and folds; fits beside the HUD",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.44",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.43/brushfall-server-0.1.1-early.43.tar.gz",
-      "sha256": "dd8fbf0306151cdcbb41df2617154711a9a39d09b0a0f0aea0396d729d141338",
-      "size": 24455909
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.44/brushfall-server-0.1.1-early.44.tar.gz",
+      "sha256": "27068f9fe0f572681d350d6477d67b29d89dc6660808531b903cbe3dbc540cd7",
+      "size": 24476640
     }
   },
-  "commit": "c30822c650241a31e52c8f3d7d2c7a4b8b7db644"
+  "commit": "3670864899b409ac5828eaa04b4df99d72878c4d"
 }
