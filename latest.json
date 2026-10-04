@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.33",
-  "published": "2026-10-04T19:10:40.686Z",
-  "notes": "- The Hardcore memorial shows the hit list; hero select's big button is 'Create a New Hero' when every hero has…\n- A reconnect welcomed by a newer server reloads before entering the world\n- The recap's final blow is handed over, never matched by timestamp",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.33",
+  "version": "0.1.1-early.34",
+  "published": "2026-10-04T19:14:22.594Z",
+  "notes": "- Slash commands reach the server (moderator /mute etc. and test-world commands); unknown ones get help, never…\n- Service worker never serves /art/manifest.json from cache (approved paintings showed old art after a reload)",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.34",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.33/brushfall-server-0.1.1-early.33.tar.gz",
-      "sha256": "70add9c5b5a0a36022e476a8ae3d05c9e8a8277b8bb982bfcc043e73ca2d5b05",
-      "size": 24160451
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.34/brushfall-server-0.1.1-early.34.tar.gz",
+      "sha256": "4283fc4a772188cd94ed7508f21dd1d83d327f38dbb68ac5570f8f16f9a48b58",
+      "size": 24161942
     }
   },
-  "commit": "b17bd1c696a2d7c634b42d6093ca73cfb4ea3d2e"
+  "commit": "7f0f522755bcec7795ca8830371a2344fcec6a33"
 }
