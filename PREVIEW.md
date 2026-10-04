@@ -10,13 +10,9 @@ Thanks for trying Brushfall this early! Every release published here is an **ear
 - **Your world should carry over.** We aim to keep every world, account, hero and painting working across updates. In a preview we can't promise that a rare change will never need a fresh start, and if one ever does, the release notes will say so clearly before you update.
 - **Settings may be renamed.** If a setting in `.env` or `brushfall.config.json` changes, the release notes will say what to do.
 
-## The license is a draft
+## The license
 
-Brushfall is free for personal, family and non-commercial hosting. The terms are in [LICENSE.txt](LICENSE.txt).
-
-**That license is still a DRAFT. It has not been reviewed by a lawyer yet**, and its wording will change before Brushfall leaves early access. The spirit won't: free for families, your art is yours, your data stays on your computer. A summary in plain words is on the wiki: [License in Plain Words](https://github.com/Twelve47Studios/brushfall_release/wiki/License-in-Plain-Words).
-
-When the final license is ready, it will ship with a release and be called out in the [changelog](CHANGELOG.md).
+Brushfall is free for personal, family and non-commercial hosting. The terms are in [LICENSE.txt](LICENSE.txt), and the idea behind them is simple: free for families, your art is yours, your data stays on your computer. A summary in plain words is on the wiki: [License in Plain Words](https://github.com/Twelve47Studios/brushfall_release/wiki/License-in-Plain-Words). If the terms ever change for a future version, the [changelog](CHANGELOG.md) will say so.
 
 ## What stays the same
 

@@ -1,18 +1,17 @@
-=====================================================================
-  DRAFT - NOT YET REVIEWED BY A LAWYER. HAVE A LAWYER REVIEW THIS
-  BEFORE PUBLIC RELEASE. It is a plain-language starting point only.
-=====================================================================
+BRUSHFALL - END USER LICENSE AGREEMENT
 
-BRUSHFALL SERVER - END USER LICENSE AGREEMENT (DRAFT)
+Effective October 3, 2026
 
-Copyright (c) 2026 Twelve47 Studios. All rights reserved.
+Copyright (c) 2026 Nicholas Schiavi, publishing as Twelve47 Studios.
+All rights reserved.
 
 Brushfall, including the server software, the game client, the host
 command-line tool, the Studio Desk admin panel and the default art set
-(together, "the Software"), is proprietary software owned by Twelve47
-Studios ("we", "us"). By installing, copying or running the Software,
-you ("you", "the host") agree to these terms. If you do not agree, do
-not install or use the Software.
+(together, "the Software"), is proprietary software owned by Nicholas
+Schiavi, who publishes it as Twelve47 Studios ("we", "us"). By
+installing, copying or running the Software, you ("you", "the host")
+agree to these terms. If you do not agree, do not install or use the
+Software.
 
 1. WHAT YOU MAY DO (THE LICENSE)
    We grant you a free, personal, non-exclusive, non-transferable,
@@ -25,7 +24,7 @@ not install or use the Software.
    You may not charge for access to your server, sell or rent the
    Software or hosting of it, run it as a paid service, or use it for
    any other commercial purpose, unless we agree in writing. Accepting
-   voluntary donations to cover your own hosting costs (see section 6)
+   voluntary donations to cover your own hosting costs (see section 7)
    is not commercial use, as long as nobody receives anything in the
    game in return.
 
@@ -68,39 +67,64 @@ not install or use the Software.
    feed). Anything you choose to forward to us, such as a bug report,
    is sent by you, through your own browser or mail client.
 
-6. DONATIONS ARE VOLUNTARY
-   Donations to Twelve47 Studios, or to a server host, are entirely
-   voluntary gifts. They do not buy the Software, grant any license,
-   rights, support obligations, priority, or anything inside the game.
+6. YOUR SERVER, YOUR RESPONSIBILITIES
+   You run your server and decide who may join. You are responsible for:
+   a) who you invite and how you moderate your server;
+   b) getting a parent's or guardian's permission before a child plays
+      on your server, and setting up the parent controls (family links,
+      chat settings, play time and Safe Paths) the way that family wants;
+   c) following the laws that apply to you as a host, including laws
+      about children's privacy and personal data where you live and
+      where your players live;
+   d) keeping your server, its software and its backups secure.
+   We do not operate your server, see its contents, or collect your
+   players' information.
 
-7. UPDATES
+7. DONATIONS ARE VOLUNTARY
+   Donations to us, or to a server host, are entirely voluntary gifts.
+   They do not buy the Software, grant any license, rights, support
+   obligations, priority, or anything inside the game.
+
+8. UPDATES
    We may release updates. Updates are covered by this license unless
    they come with different terms. We are not obliged to provide
    updates or support.
 
-8. NO WARRANTY
+9. NO WARRANTY
    THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
    OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
    WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
    NON-INFRINGEMENT. YOU ARE RESPONSIBLE FOR YOUR SERVER, ITS SECURITY,
    ITS BACKUPS, AND HOW YOU MODERATE IT.
 
-9. LIMITATION OF LIABILITY
-   TO THE FULLEST EXTENT PERMITTED BY LAW, TWELVE47 STUDIOS WILL NOT BE
-   LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR
-   PUNITIVE DAMAGES, OR ANY LOSS OF DATA, PROFITS OR GOODWILL, ARISING
-   FROM OR RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY.
+10. LIMITATION OF LIABILITY
+   TO THE FULLEST EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR
+   ANY LOSS OF DATA, PROFITS OR GOODWILL, ARISING FROM OR RELATED TO THE
+   SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY. BECAUSE THE SOFTWARE IS
+   FREE, OUR TOTAL LIABILITY FOR ANY CLAIM IS LIMITED TO US$50.
 
-10. ENDING THIS LICENSE
+11. YOUR CONSUMER RIGHTS
+   Some places do not allow certain warranty exclusions or limits on
+   liability, or give you rights that a contract cannot take away.
+   Nothing in this agreement limits those rights where they apply to
+   you.
+
+12. ENDING THIS LICENSE
    This license ends automatically if you break these terms. When it
    ends, you must stop running the Software and delete your copies of
-   it. Your own data and your own art remain yours.
+   it. Your own data and your own art remain yours. Sections 3, 4, 9,
+   10, 11 and 13 continue after this license ends.
 
-11. GENERAL
-   If any part of this agreement is found unenforceable, the rest stays
-   in effect. This is the entire agreement about the Software between
-   you and us. [TODO(lawyer): governing law and venue; consumer-law
-   carve-outs for relevant jurisdictions; children's privacy (COPPA /
-   GDPR-K) responsibilities of hosts.]
+13. GENERAL
+   This agreement is governed by the laws of the place where we are
+   based, without regard to its conflict-of-laws rules, and disputes
+   will be resolved in the courts there, except where the consumer laws
+   where you live give you the right to bring a claim locally. If any
+   part of this agreement is found unenforceable, the rest stays in
+   effect. Not enforcing a part of this agreement is not a waiver. We
+   may update these terms for future versions of the Software; the
+   terms included with a version apply to that version. This is the
+   entire agreement about the Software between you and us.
 
 Questions: brushfallgame@gmail.com
