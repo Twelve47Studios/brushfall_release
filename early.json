@@ -1,13 +1,13 @@
 {
-  "version": "0.1.1-early.81",
-  "published": "2026-10-05T21:49:32.865Z",
-  "notes": "- Added Nearby tab as default.   Art changes are shown client-side immedietly to the user.  Shown publically af…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.81",
+  "version": "0.1.1-early.82",
+  "published": "2026-10-05T21:55:41.001Z",
+  "notes": "- Behind-the-scenes improvements.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.82",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.81/brushfall-server-0.1.1-early.81.tar.gz",
-      "sha256": "3f02722d1aeecf5e2a16aa0b8e9efe1096e26e9e5190395c967e7e70dad615ac",
-      "size": 24767191
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.82/brushfall-server-0.1.1-early.82.tar.gz",
+      "sha256": "bbcd015788667c20317f115dd66c4622213e9e7abfdd9479517023b7ae9c7a5f",
+      "size": 24766289
     }
   },
   "commit": "da37c53c8cdab631bb801a6df5c0d596051574a1"
