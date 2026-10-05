@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.62",
-  "published": "2026-10-05T00:57:58.119Z",
-  "notes": "- Painting previwe shows actual rendered object.",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.62",
+  "version": "0.1.1-early.63",
+  "published": "2026-10-05T01:19:01.038Z",
+  "notes": "- 20 Hz snapshots, leaner adaptive interpolation, readout polish, combat budgets, net simulator fix\n- Bake vector HUD art to bitmaps (fight frame time 26 -> 120 fps on M3 Max), combat benchmark, server tick metr…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.63",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.62/brushfall-server-0.1.1-early.62.tar.gz",
-      "sha256": "65a2f5bd90f40434558eb0bbaefca195e408e4775f20b0887dde61bdf553171c",
-      "size": 24582914
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.63/brushfall-server-0.1.1-early.63.tar.gz",
+      "sha256": "e1b33e72ec4dd5108ead9ce9a874166607007576a3f87b2d0a7bc08fe33d5a18",
+      "size": 24598680
     }
   },
-  "commit": "53911eca32248f1e6152821e90283a2b620f0823"
+  "commit": "3984bc21f9982fe870672f816628a9d40bb588f2"
 }
