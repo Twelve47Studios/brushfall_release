@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.59",
-  "published": "2026-10-05T00:03:03.907Z",
-  "notes": "- Margin line uses the 'things painted' wording; /paintings sets the distinct counter\n- Intro beat 1 shows a humming paintbrush, not a hand-shaped blob (a peach fist read as a severed hand)\n- Bump handler survives remounts; Margin map label stays on the map; action toasts wrap on phones\n- Guidance never leads to gated content (shared availability rule, explained gates, live trail, barrier message…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.59",
+  "version": "0.1.1-early.60",
+  "published": "2026-10-05T00:16:40.450Z",
+  "notes": "- Added tabs to settings",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.60",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.59/brushfall-server-0.1.1-early.59.tar.gz",
-      "sha256": "8f79cb9972a4436d37d540eea92368c1175c8a939f6736dbf26c660084149ec7",
-      "size": 24567115
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.60/brushfall-server-0.1.1-early.60.tar.gz",
+      "sha256": "9bbd2c4a8d1016b13dc1528576c280adc22494a0b585489addd7d3e9ec3b241a",
+      "size": 24568490
     }
   },
-  "commit": "0bb634c2288b840a6579d274d0bbafcc8dd25543"
+  "commit": "66fec9dd37bac8375a2295457880525876866425"
 }
