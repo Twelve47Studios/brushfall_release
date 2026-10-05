@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.60",
-  "published": "2026-10-05T00:16:40.450Z",
-  "notes": "- Added tabs to settings",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.60",
+  "version": "0.1.1-early.62",
+  "published": "2026-10-05T00:57:58.119Z",
+  "notes": "- Painting previwe shows actual rendered object.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.62",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.60/brushfall-server-0.1.1-early.60.tar.gz",
-      "sha256": "9bbd2c4a8d1016b13dc1528576c280adc22494a0b585489addd7d3e9ec3b241a",
-      "size": 24568490
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.62/brushfall-server-0.1.1-early.62.tar.gz",
+      "sha256": "65a2f5bd90f40434558eb0bbaefca195e408e4775f20b0887dde61bdf553171c",
+      "size": 24582914
     }
   },
-  "commit": "66fec9dd37bac8375a2295457880525876866425"
+  "commit": "53911eca32248f1e6152821e90283a2b620f0823"
 }
