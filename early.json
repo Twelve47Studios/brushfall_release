@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.80",
-  "published": "2026-10-05T21:30:21.902Z",
-  "notes": "- World Building: Feral Crayon area.",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.80",
+  "version": "0.1.1-early.81",
+  "published": "2026-10-05T21:49:32.865Z",
+  "notes": "- Added Nearby tab as default.   Art changes are shown client-side immedietly to the user.  Shown publically af…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.81",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.80/brushfall-server-0.1.1-early.80.tar.gz",
-      "sha256": "3eed97b58dc16501f10a19eb198ff73fe8b16d0c5752a063f0e6c649c7ce7326",
-      "size": 24760217
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.81/brushfall-server-0.1.1-early.81.tar.gz",
+      "sha256": "3f02722d1aeecf5e2a16aa0b8e9efe1096e26e9e5190395c967e7e70dad615ac",
+      "size": 24767191
     }
   },
-  "commit": "a96fc811e097c9f516f81f08b0d86cfbb4b014df"
+  "commit": "da37c53c8cdab631bb801a6df5c0d596051574a1"
 }
