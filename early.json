@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.70",
-  "published": "2026-10-05T04:40:17.478Z",
-  "notes": "- IPad landscape Sprout layout through the HUD keep-out system",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.70",
+  "version": "0.1.1-early.71",
+  "published": "2026-10-05T06:28:46.036Z",
+  "notes": "- Where to get it for every recipe ingredient (gather, drops, vendors, quests, crafting, disenchant), with guid…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.71",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.70/brushfall-server-0.1.1-early.70.tar.gz",
-      "sha256": "2033e72851b220ae16d3f68046dea85d3af7b1934b2282002a83ca82378136bd",
-      "size": 24665967
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.71/brushfall-server-0.1.1-early.71.tar.gz",
+      "sha256": "e96b4db0774bcd2c74a9ea791ceeb0a6de0c0bc8daaaeed7d5f068671b98d3f9",
+      "size": 24684781
     }
   },
-  "commit": "402bc1280b9313eeb46b714899124f50e3eee3e8"
+  "commit": "e405fe281a2493075bfa52183d98ae56148925c3"
 }
