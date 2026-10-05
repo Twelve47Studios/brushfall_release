@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.69",
-  "published": "2026-10-05T03:54:37.106Z",
-  "notes": "- Compact boss fights (tuck-away layout, merged boss/target frame, held toasts and cards, Settings toggle)",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.69",
+  "version": "0.1.1-early.70",
+  "published": "2026-10-05T04:40:17.478Z",
+  "notes": "- IPad landscape Sprout layout through the HUD keep-out system",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.70",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.69/brushfall-server-0.1.1-early.69.tar.gz",
-      "sha256": "4174419f1cb34387af89e99649454393d16479460b7470a4afb8653b770789b2",
-      "size": 24657807
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.70/brushfall-server-0.1.1-early.70.tar.gz",
+      "sha256": "2033e72851b220ae16d3f68046dea85d3af7b1934b2282002a83ca82378136bd",
+      "size": 24665967
     }
   },
-  "commit": "0cbc261a13083014883825f7e808082f71edcef4"
+  "commit": "402bc1280b9313eeb46b714899124f50e3eee3e8"
 }
