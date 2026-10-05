@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.67",
-  "published": "2026-10-05T03:32:12.349Z",
-  "notes": "- Survive like a careful casual (earlier defences, retreat, tonics at 50%, focus weakest, no new targets when s…\n- Play the whole spellbook by role (heal/revive/buffs/defence/taunt/CC/AoE/DoT/nukes), ink-aware, tonics; sim h…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.67",
+  "version": "0.1.1-early.68",
+  "published": "2026-10-05T03:37:48.913Z",
+  "notes": "- Quest errands - hand in finished quests, talk, pick up the next; best-armor reward pick; hand-in confetti",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.68",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.67/brushfall-server-0.1.1-early.67.tar.gz",
-      "sha256": "f35c49e28e8af2b088f79115c5780e53455d70741f3e66fff2b5c0cfa9e8a611",
-      "size": 24651645
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.68/brushfall-server-0.1.1-early.68.tar.gz",
+      "sha256": "50ca9ecd3d73a0205117ec5f79fd7676833efa40dc1e8f0b57d2201da2648207",
+      "size": 24653645
     }
   },
-  "commit": "6182cd13b86244243766a975a848bcf4651232c0"
+  "commit": "45524cb068687c5553ed78990749345373ee0b6a"
 }
