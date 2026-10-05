@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.76",
-  "published": "2026-10-05T20:55:32.242Z",
-  "notes": "- Attack abilities with no living target let the server pick one in reach, not a far-off enemy the client chose\n- Terrain Splats, and enemy splats when basic attack si used.\n- Movement slide changes\n- Movement Tech: Added ability to hold down jump to enter a squat that slides, and a little extra height on a j…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.76",
+  "version": "0.1.1-early.79",
+  "published": "2026-10-05T21:19:36.883Z",
+  "notes": "- Rainbow map-legend icon uses theme tokens (the no-hard-coded-colors test was red on main)\n- Added a twice a day randomly spawning raindbow.. that spawns elite coin enemies appropriate to the level regi…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.79",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.76/brushfall-server-0.1.1-early.76.tar.gz",
-      "sha256": "083e77e6b141e510bbd9511dc332c54028de5440be8d217a7ad9f016a8c1f3aa",
-      "size": 24713502
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.79/brushfall-server-0.1.1-early.79.tar.gz",
+      "sha256": "d29f2693d0a324365eb43e790d30cc8650f643e33ae4e6df1dcb5249cc36a489",
+      "size": 24727206
     }
   },
-  "commit": "20175c4f232c7ec9f96952a2a81bfeafd0a2c210"
+  "commit": "a9b826164033277ff94dfa60c5523d0a82834fab"
 }
