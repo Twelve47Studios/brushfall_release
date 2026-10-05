@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.68",
-  "published": "2026-10-05T03:37:48.913Z",
-  "notes": "- Quest errands - hand in finished quests, talk, pick up the next; best-armor reward pick; hand-in confetti",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.68",
+  "version": "0.1.1-early.69",
+  "published": "2026-10-05T03:54:37.106Z",
+  "notes": "- Compact boss fights (tuck-away layout, merged boss/target frame, held toasts and cards, Settings toggle)",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.69",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.68/brushfall-server-0.1.1-early.68.tar.gz",
-      "sha256": "50ca9ecd3d73a0205117ec5f79fd7676833efa40dc1e8f0b57d2201da2648207",
-      "size": 24653645
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.69/brushfall-server-0.1.1-early.69.tar.gz",
+      "sha256": "4174419f1cb34387af89e99649454393d16479460b7470a4afb8653b770789b2",
+      "size": 24657807
     }
   },
-  "commit": "45524cb068687c5553ed78990749345373ee0b6a"
+  "commit": "0cbc261a13083014883825f7e808082f71edcef4"
 }
