@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.79",
-  "published": "2026-10-05T21:19:36.883Z",
-  "notes": "- Rainbow map-legend icon uses theme tokens (the no-hard-coded-colors test was red on main)\n- Added a twice a day randomly spawning raindbow.. that spawns elite coin enemies appropriate to the level regi…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.79",
+  "version": "0.1.1-early.80",
+  "published": "2026-10-05T21:30:21.902Z",
+  "notes": "- World Building: Feral Crayon area.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.80",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.79/brushfall-server-0.1.1-early.79.tar.gz",
-      "sha256": "d29f2693d0a324365eb43e790d30cc8650f643e33ae4e6df1dcb5249cc36a489",
-      "size": 24727206
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.80/brushfall-server-0.1.1-early.80.tar.gz",
+      "sha256": "3eed97b58dc16501f10a19eb198ff73fe8b16d0c5752a063f0e6c649c7ce7326",
+      "size": 24760217
     }
   },
-  "commit": "a9b826164033277ff94dfa60c5523d0a82834fab"
+  "commit": "a96fc811e097c9f516f81f08b0d86cfbb4b014df"
 }
