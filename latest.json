@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.64",
-  "published": "2026-10-05T02:48:46.444Z",
-  "notes": "- The crayon design is great.. but remove the \"texture\"ness of it.. so it is easy to draw separate sections of…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.64",
+  "version": "0.1.1-early.66",
+  "published": "2026-10-05T02:51:55.792Z",
+  "notes": "- Primerton visual updates (welcome sign, flowers, crayons, bell)..  added \"sections\" for drawing complex objec…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.66",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.64/brushfall-server-0.1.1-early.64.tar.gz",
-      "sha256": "30dab581f57fd825767ac427343ef140208ac4c05e2a936dbadd48ccb06eda01",
-      "size": 24648684
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.66/brushfall-server-0.1.1-early.66.tar.gz",
+      "sha256": "6b11a2a4b55c24f5acf8fb65f9a26860cddee462da9024d5c08bb07ae1009170",
+      "size": 24648252
     }
   },
-  "commit": "57bee08ae6496eaa46da1141aab6dddec626ba2b"
+  "commit": "6af36588324e6d2b73dd16ad6007327998538a09"
 }
