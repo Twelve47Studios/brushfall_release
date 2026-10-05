@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.82",
-  "published": "2026-10-05T21:55:41.001Z",
-  "notes": "- Behind-the-scenes improvements.",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.82",
+  "version": "0.1.1-early.83",
+  "published": "2026-10-05T22:30:35.192Z",
+  "notes": "- Tantrum Teacup area",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.83",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.82/brushfall-server-0.1.1-early.82.tar.gz",
-      "sha256": "bbcd015788667c20317f115dd66c4622213e9e7abfdd9479517023b7ae9c7a5f",
-      "size": 24766289
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.83/brushfall-server-0.1.1-early.83.tar.gz",
+      "sha256": "83858f58a9a20c782cffeb4d1481b31193b00171d35fb6cbcc5035353fc83139",
+      "size": 24778810
     }
   },
-  "commit": "da37c53c8cdab631bb801a6df5c0d596051574a1"
+  "commit": "092332c94727cd8ef27841def848605a73ea1805"
 }
