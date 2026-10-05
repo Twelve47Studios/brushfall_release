@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.71",
-  "published": "2026-10-05T06:28:46.036Z",
-  "notes": "- Where to get it for every recipe ingredient (gather, drops, vendors, quests, crafting, disenchant), with guid…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.71",
+  "version": "0.1.1-early.72",
+  "published": "2026-10-05T18:03:47.738Z",
+  "notes": "- Drop the Quality percent and bar from item tooltips (stats and the comparison carry it)",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.72",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.71/brushfall-server-0.1.1-early.71.tar.gz",
-      "sha256": "e96b4db0774bcd2c74a9ea791ceeb0a6de0c0bc8daaaeed7d5f068671b98d3f9",
-      "size": 24684781
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.72/brushfall-server-0.1.1-early.72.tar.gz",
+      "sha256": "442b47ca3440676f87b6341d9837b996436dad7361ec180849a96b372db63477",
+      "size": 24683677
     }
   },
-  "commit": "e405fe281a2493075bfa52183d98ae56148925c3"
+  "commit": "d016bfef7de539a3d09f0364e4f942eda0633c84"
 }
