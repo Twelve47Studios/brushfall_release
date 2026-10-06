@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.94",
-  "published": "2026-10-06T04:41:04.715Z",
-  "notes": "- Skill-card timers stop with their page (a slow CI run fired one after the test environment was gone and faile…\n- HUD tour and skill cards with a looping demo for every ability",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.94",
+  "version": "0.1.1-early.95",
+  "published": "2026-10-06T16:58:14.666Z",
+  "notes": "- Clearer wording for Dab's tour, tips and the skill cards (instruction first, charm after, game words explaine…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.95",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.94/brushfall-server-0.1.1-early.94.tar.gz",
-      "sha256": "d8a8b7f249567ce260942eba8140639a803b15739ee41471507057dff8e5eeec",
-      "size": 32576683
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.95/brushfall-server-0.1.1-early.95.tar.gz",
+      "sha256": "63432e21302266465c6001105b1584fd8d2d9deedfe1dd696830bb355bce8dfc",
+      "size": 32680315
     }
   },
-  "commit": "b8ba9769486d2f8a07613dae06fc3f18039cdf34"
+  "commit": "03ef23061826997b0633c516c69349b81ac0825e"
 }
