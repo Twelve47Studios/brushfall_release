@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.110",
-  "published": "2026-10-06T21:15:30.174Z",
-  "notes": "- The Leaky Gallery's sludge, sunbeams and velvet rope don't offer \"Paint this\" (effects and flat colour; main'…\n- The ••• wheel never opens as a blank box on phones (empty slots stay drawn) and closes with a tap anywhere el…\n- A big portrait of Curator Mildew hangs behind him in the Leaky Gallery\n- The Leaky Gallery's last room drips until Curator Mildew falls\n- Boss speech bubbles actually draw (the bubble layer only placed bubbles over players)\n- Bosses speak in speech bubbles over their heads\n- The Leaky Gallery's second room has its own windows, sludge and rope, with the Docent guarding the doorway\n- Gallery velvet-rope lines run whole per room, ending on posts (no gaps or dangling rope)\n- …and 2 smaller fixes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.110",
+  "version": "0.1.1-early.111",
+  "published": "2026-10-06T22:47:35.434Z",
+  "notes": "- Open gallery windows stay open from anywhere in the run (sent with the hero's own snapshot, not by view dista…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.111",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.110/brushfall-server-0.1.1-early.110.tar.gz",
-      "sha256": "381bf08234b13bd77e401d057b00ca65afa614513965faabd137acbacb0a087b",
-      "size": 38676136
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.111/brushfall-server-0.1.1-early.111.tar.gz",
+      "sha256": "e324ef19a44aea9cb4b09ad67f409627f09ee0c7b91375636b0e7438b141a216",
+      "size": 38673951
     }
   },
-  "commit": "a3c21240e5cc2b93ada6400477be41ef8f77c794"
+  "commit": "a74442b61c768ea7bdccc8eb9a48a2865f975e93"
 }
