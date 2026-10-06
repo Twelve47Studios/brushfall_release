@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.111",
-  "published": "2026-10-06T22:47:35.434Z",
-  "notes": "- Open gallery windows stay open from anywhere in the run (sent with the hero's own snapshot, not by view dista…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.111",
+  "version": "0.1.1-early.112",
+  "published": "2026-10-06T23:27:55.086Z",
+  "notes": "- Take me there on a quest step done in a menu points at that menu (Dab rings Sketchbook, Bags, Crafting...) in…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.112",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.111/brushfall-server-0.1.1-early.111.tar.gz",
-      "sha256": "e324ef19a44aea9cb4b09ad67f409627f09ee0c7b91375636b0e7438b141a216",
-      "size": 38673951
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.112/brushfall-server-0.1.1-early.112.tar.gz",
+      "sha256": "a0a9a386ba6fb6d758beb0a31428c4c77b94a33121f8364d9ed06544fa9f1859",
+      "size": 38808951
     }
   },
-  "commit": "a74442b61c768ea7bdccc8eb9a48a2865f975e93"
+  "commit": "b720b770ce4f6a4be3f57d86ebd1e88d16a0a4ae"
 }
