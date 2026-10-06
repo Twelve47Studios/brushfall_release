@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.90",
-  "published": "2026-10-06T04:07:27.183Z",
-  "notes": "- Compact phone play screen (right-hand button rail, icon-only quick buttons, tidy Quests pill, Talk button cle…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.90",
+  "version": "0.1.1-early.91",
+  "published": "2026-10-06T04:14:34.814Z",
+  "notes": "- The screenshot no longer waits out 15 seconds; hidden lazy pictures and blob art are copied properly",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.91",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.90/brushfall-server-0.1.1-early.90.tar.gz",
-      "sha256": "444b706adef95e0c897cd1e01b6e1a0f1da449581c592b643556b0440c2d427d",
-      "size": 30974166
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.91/brushfall-server-0.1.1-early.91.tar.gz",
+      "sha256": "0d45821ad62b1a8d2217c0bc2c718d8c4a463f5afc68b912750dd86ea4443154",
+      "size": 30977607
     }
   },
-  "commit": "df3ca0e6da89b03705748861940367eeba47b4ab"
+  "commit": "8a2327b78a6cb13d4c9409bde2c88e6f20a858db"
 }
