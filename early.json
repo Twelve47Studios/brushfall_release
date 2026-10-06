@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.83",
-  "published": "2026-10-05T22:30:35.192Z",
-  "notes": "- Tantrum Teacup area",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.83",
+  "version": "0.1.1-early.84",
+  "published": "2026-10-06T00:30:35.294Z",
+  "notes": "- Loot Pickup: F now lets u pick up all loot",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.84",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.83/brushfall-server-0.1.1-early.83.tar.gz",
-      "sha256": "83858f58a9a20c782cffeb4d1481b31193b00171d35fb6cbcc5035353fc83139",
-      "size": 24778810
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.84/brushfall-server-0.1.1-early.84.tar.gz",
+      "sha256": "528ae3956466b099af891057b354b6f858b2351ac958a480134959ca32dc7ef3",
+      "size": 24780772
     }
   },
-  "commit": "092332c94727cd8ef27841def848605a73ea1805"
+  "commit": "c676e41cd36ddf0c03fe81bad855f5680e122c77"
 }
