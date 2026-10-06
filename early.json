@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.86",
-  "published": "2026-10-06T01:14:42.826Z",
-  "notes": "- Profession craft chains, everyday-life quests (trade, party, gather, buy/sell, equip, talent, emote, disencha…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.86",
+  "version": "0.1.1-early.87",
+  "published": "2026-10-06T01:24:52.597Z",
+  "notes": "- Service badges over NPC heads and on the map for shops, trainers, Atelier keepers and inns\n- Painted Trainer and Inn icons, NPC service kinds in shared",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.87",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.86/brushfall-server-0.1.1-early.86.tar.gz",
-      "sha256": "2a69388571668ffcc6c3ab87a8eb8dca088f8d10cc834cd2709e2b41b45a5f00",
-      "size": 30948943
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.87/brushfall-server-0.1.1-early.87.tar.gz",
+      "sha256": "8beaeec1cf2962c96355bd68cba74a5c69234fc1e30413038ed53dcbfb70f88a",
+      "size": 30958100
     }
   },
-  "commit": "e5d6188e2cb90f5ad095e82caae8355e157bb9ef"
+  "commit": "808056c6f2190146c008103c7ff314dcd144546e"
 }
