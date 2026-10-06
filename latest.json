@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.103",
-  "published": "2026-10-06T18:52:36.491Z",
-  "notes": "- Painted buff icons — what was painted behind, the painter class badge in the corner\n- Painted buff tooltips name the painted thing and its painter; no timer while near; smooth ground ring\n- Point at the painting behind a painted buff, and show painted reach/splash in range previews\n- Painted buffs — approved paintings by you or your party buff the party nearby and weaken painted creatures",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.103",
+  "version": "0.1.1-early.104",
+  "published": "2026-10-06T19:19:59.946Z",
+  "notes": "- A press while busy waits its turn instead of saying \"You're in the middle of something!\"; out of Ink lights t…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.104",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.103/brushfall-server-0.1.1-early.103.tar.gz",
-      "sha256": "067065f9eb67da6b64ce44326c4456762af37aaa7227041da6a7a66307a728dc",
-      "size": 38640711
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.104/brushfall-server-0.1.1-early.104.tar.gz",
+      "sha256": "03d2c23dfefffab7b549e23ab7b0db6bf7ffc4fe00d8084208c07c83e570da10",
+      "size": 38642194
     }
   },
-  "commit": "ba9be384cfc66e340040cf82e0838726c7f5b7a9"
+  "commit": "3af7e442c058c94b4fbea17b0783a0c3c1bea7cb"
 }
