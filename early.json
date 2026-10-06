@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.107",
-  "published": "2026-10-06T20:05:33.060Z",
-  "notes": "- The Gallery Guard stands its post (faces out, never wanders) and takes nothing from the world's dice, so main…\n- No flicker where the Leaky Gallery's roof band meets the back wall\n- Leaky Gallery entrance on level ground, a door guard, a front garden; the moon hides behind buildings\n- Bigger Leaky Gallery entrance with a flat museum roof; no paintings or puddles out front\n- Out of Ink plays a soft plip with the glowing Ink potion (at most once every 1.5 s)\n- The Leaky Gallery entrance is a little museum with the portal swirl as its front door",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.107",
+  "version": "0.1.1-early.110",
+  "published": "2026-10-06T21:15:30.174Z",
+  "notes": "- The Leaky Gallery's sludge, sunbeams and velvet rope don't offer \"Paint this\" (effects and flat colour; main'…\n- The ••• wheel never opens as a blank box on phones (empty slots stay drawn) and closes with a tap anywhere el…\n- A big portrait of Curator Mildew hangs behind him in the Leaky Gallery\n- The Leaky Gallery's last room drips until Curator Mildew falls\n- Boss speech bubbles actually draw (the bubble layer only placed bubbles over players)\n- Bosses speak in speech bubbles over their heads\n- The Leaky Gallery's second room has its own windows, sludge and rope, with the Docent guarding the doorway\n- Gallery velvet-rope lines run whole per room, ending on posts (no gaps or dangling rope)\n- …and 2 smaller fixes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.110",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.107/brushfall-server-0.1.1-early.107.tar.gz",
-      "sha256": "bdb7a08273cf85ebbee181dfc790cd8e9772634e8d594f3a7bfff1758d6579f4",
-      "size": 38650746
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.110/brushfall-server-0.1.1-early.110.tar.gz",
+      "sha256": "381bf08234b13bd77e401d057b00ca65afa614513965faabd137acbacb0a087b",
+      "size": 38676136
     }
   },
-  "commit": "634d2601a6930def98346264dc5e46e5dbe969fb"
+  "commit": "a3c21240e5cc2b93ada6400477be41ef8f77c794"
 }
