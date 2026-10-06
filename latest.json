@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.87",
-  "published": "2026-10-06T01:24:52.597Z",
-  "notes": "- Service badges over NPC heads and on the map for shops, trainers, Atelier keepers and inns\n- Painted Trainer and Inn icons, NPC service kinds in shared",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.87",
+  "version": "0.1.1-early.89",
+  "published": "2026-10-06T03:19:46.415Z",
+  "notes": "- Talent points badge on the Sketchbook and menu buttons; merge repeated toasts; fix the red build (debug rende…\n- Teapot updates\n- World Building: Lucky coin mechanic added, teacup and crayon section updates.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.89",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.87/brushfall-server-0.1.1-early.87.tar.gz",
-      "sha256": "8beaeec1cf2962c96355bd68cba74a5c69234fc1e30413038ed53dcbfb70f88a",
-      "size": 30958100
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.89/brushfall-server-0.1.1-early.89.tar.gz",
+      "sha256": "52a709de3a48001385a460ae35f851f29d08c551bc04d83780be558a866067ad",
+      "size": 30973726
     }
   },
-  "commit": "808056c6f2190146c008103c7ff314dcd144546e"
+  "commit": "d48ec6edab0522613dc9d095df6d9ed8b14bdd64"
 }
