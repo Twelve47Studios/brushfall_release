@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.98",
-  "published": "2026-10-06T17:20:46.242Z",
-  "notes": "- The HUD tour points out Settings' time-savers (Auto-loot, Auto-equip upgrades) for non-Sprout heroes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.98",
+  "version": "0.1.1-early.99",
+  "published": "2026-10-06T17:51:37.280Z",
+  "notes": "- IPhone screenshots finish in about a second (cap Safari's per-picture redraws; ~100 painted icons made it a f…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.99",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.98/brushfall-server-0.1.1-early.98.tar.gz",
-      "sha256": "43e8d4a7745b7fc6f1b985f464f246e2d08ebb2fe8c73eed07234eafa699046d",
-      "size": 32723462
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.99/brushfall-server-0.1.1-early.99.tar.gz",
+      "sha256": "186c74837d1d35514d6472b044528765d93bf0f99b864135b39be33c613dd95f",
+      "size": 32726980
     }
   },
-  "commit": "0af1b99a44962e2a6b9b8726e8c885cd663d9f53"
+  "commit": "cf4084a16a5a379df5b57eae381db3cde622023f"
 }
