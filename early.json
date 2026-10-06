@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.99",
-  "published": "2026-10-06T17:51:37.280Z",
-  "notes": "- IPhone screenshots finish in about a second (cap Safari's per-picture redraws; ~100 painted icons made it a f…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.99",
+  "version": "0.1.1-early.100",
+  "published": "2026-10-06T18:03:50.340Z",
+  "notes": "- Round item art in round slots, festival buff icon, dock under the Window badge, Dab avoids other buttons, tou…\n- HUD context reads the tutorial holds without a new set per frame\n- HUD context tidies the town (abilities and potions tuck away until needed)",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.100",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.99/brushfall-server-0.1.1-early.99.tar.gz",
-      "sha256": "186c74837d1d35514d6472b044528765d93bf0f99b864135b39be33c613dd95f",
-      "size": 32726980
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.100/brushfall-server-0.1.1-early.100.tar.gz",
+      "sha256": "58255e7f6c59ebd2a00acdfad02d91606804061fcce1072bf6aeae9a6fc269df",
+      "size": 32730223
     }
   },
-  "commit": "cf4084a16a5a379df5b57eae381db3cde622023f"
+  "commit": "306278e4412457096d3a0fcef6eac3a205a50d19"
 }
