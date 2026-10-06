@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.89",
-  "published": "2026-10-06T03:19:46.415Z",
-  "notes": "- Talent points badge on the Sketchbook and menu buttons; merge repeated toasts; fix the red build (debug rende…\n- Teapot updates\n- World Building: Lucky coin mechanic added, teacup and crayon section updates.",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.89",
+  "version": "0.1.1-early.90",
+  "published": "2026-10-06T04:07:27.183Z",
+  "notes": "- Compact phone play screen (right-hand button rail, icon-only quick buttons, tidy Quests pill, Talk button cle…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.90",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.89/brushfall-server-0.1.1-early.89.tar.gz",
-      "sha256": "52a709de3a48001385a460ae35f851f29d08c551bc04d83780be558a866067ad",
-      "size": 30973726
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.90/brushfall-server-0.1.1-early.90.tar.gz",
+      "sha256": "444b706adef95e0c897cd1e01b6e1a0f1da449581c592b643556b0440c2d427d",
+      "size": 30974166
     }
   },
-  "commit": "d48ec6edab0522613dc9d095df6d9ed8b14bdd64"
+  "commit": "df3ca0e6da89b03705748861940367eeba47b4ab"
 }
