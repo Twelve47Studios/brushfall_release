@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.91",
-  "published": "2026-10-06T04:14:34.814Z",
-  "notes": "- The screenshot no longer waits out 15 seconds; hidden lazy pictures and blob art are copied properly",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.91",
+  "version": "0.1.1-early.92",
+  "published": "2026-10-06T04:18:42.971Z",
+  "notes": "- See your Sprout's quests and objectives",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.92",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.91/brushfall-server-0.1.1-early.91.tar.gz",
-      "sha256": "0d45821ad62b1a8d2217c0bc2c718d8c4a463f5afc68b912750dd86ea4443154",
-      "size": 30977607
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.92/brushfall-server-0.1.1-early.92.tar.gz",
+      "sha256": "57dd3b33030b87ae0ad27d56d74632af6f2181c75f5bd259da5b62000e28faed",
+      "size": 30985574
     }
   },
-  "commit": "8a2327b78a6cb13d4c9409bde2c88e6f20a858db"
+  "commit": "1fdf59d3d959eb975320eca21d08ad4119b8c127"
 }
