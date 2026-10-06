@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.101",
-  "published": "2026-10-06T18:09:18.977Z",
-  "notes": "- Each hero practices in the yard of their own faction's start zone\n- Giggle Dummies in the Atelier list; dummies take nothing from the world's dice\n- Practice yards outside Primerton and Bleedwater, with Giggle Dummies and Dab's ability lesson",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.101",
+  "version": "0.1.1-early.102",
+  "published": "2026-10-06T18:27:15.255Z",
+  "notes": "- Players can send their own picture (a phone screenshot) instead of the game's; arrival title stays out of ope…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.102",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.101/brushfall-server-0.1.1-early.101.tar.gz",
-      "sha256": "5c6d31860a915f6f4db0f90777fd63d1255d50197581c814cc8c0f5af753efc4",
-      "size": 38590581
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.102/brushfall-server-0.1.1-early.102.tar.gz",
+      "sha256": "77e1871925dbfcc5c45ac2c011e6f1a2db51184a53b7ea35aa136b347497fcb1",
+      "size": 38594813
     }
   },
-  "commit": "b13ab72072be04370092a1536cdf0a327d617e74"
+  "commit": "8e3e1705039157523a479b588e97ff3afa6e30b0"
 }
