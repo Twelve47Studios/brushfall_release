@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.96",
-  "published": "2026-10-06T17:04:44.708Z",
-  "notes": "- Dab's text dock and flight with a painted trail",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.96",
+  "version": "0.1.1-early.97",
+  "published": "2026-10-06T17:11:36.387Z",
+  "notes": "- Towns, the safe hub circles (for a tidier HUD in town and for placing the practice yard)",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.97",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.96/brushfall-server-0.1.1-early.96.tar.gz",
-      "sha256": "5fc4a44c5f409c2e34ef793b8fb80546410ecc52c64670c1db15708bcd6c34f0",
-      "size": 32694837
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.97/brushfall-server-0.1.1-early.97.tar.gz",
+      "sha256": "bd6dc28236c561a386485d83050266eeb59ea14b39a814903e81f41f3aa724e7",
+      "size": 32696211
     }
   },
-  "commit": "ac187e95c7075c9fb04b3bd04acbed44f5fd2e34"
+  "commit": "0337d5125e5f101af63b9bd5e2654de5c60c446a"
 }
