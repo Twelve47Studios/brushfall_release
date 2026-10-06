@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.97",
-  "published": "2026-10-06T17:11:36.387Z",
-  "notes": "- Towns, the safe hub circles (for a tidier HUD in town and for placing the practice yard)",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.97",
+  "version": "0.1.1-early.98",
+  "published": "2026-10-06T17:20:46.242Z",
+  "notes": "- The HUD tour points out Settings' time-savers (Auto-loot, Auto-equip upgrades) for non-Sprout heroes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.98",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.97/brushfall-server-0.1.1-early.97.tar.gz",
-      "sha256": "bd6dc28236c561a386485d83050266eeb59ea14b39a814903e81f41f3aa724e7",
-      "size": 32696211
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.98/brushfall-server-0.1.1-early.98.tar.gz",
+      "sha256": "43e8d4a7745b7fc6f1b985f464f246e2d08ebb2fe8c73eed07234eafa699046d",
+      "size": 32723462
     }
   },
-  "commit": "0337d5125e5f101af63b9bd5e2654de5c60c446a"
+  "commit": "0af1b99a44962e2a6b9b8726e8c885cd663d9f53"
 }
