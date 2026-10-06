@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.84",
-  "published": "2026-10-06T00:30:35.294Z",
-  "notes": "- Loot Pickup: F now lets u pick up all loot",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.84",
+  "version": "0.1.1-early.85",
+  "published": "2026-10-06T00:48:28.477Z",
+  "notes": "- Crayon Area: crayons are now flung into their box. moved commisions to the bottom of the quest log.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.85",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.84/brushfall-server-0.1.1-early.84.tar.gz",
-      "sha256": "528ae3956466b099af891057b354b6f858b2351ac958a480134959ca32dc7ef3",
-      "size": 24780772
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.85/brushfall-server-0.1.1-early.85.tar.gz",
+      "sha256": "824eeb5dbd0312ecc72125997c9e9a2e18bb94a59ec4cf6b6f3a9b5dd3920356",
+      "size": 24781595
     }
   },
-  "commit": "c676e41cd36ddf0c03fe81bad855f5680e122c77"
+  "commit": "8bf5dd3925e12c35519db5307e94f3699486a171"
 }
