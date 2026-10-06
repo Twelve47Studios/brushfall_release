@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.95",
-  "published": "2026-10-06T16:58:14.666Z",
-  "notes": "- Clearer wording for Dab's tour, tips and the skill cards (instruction first, charm after, game words explaine…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.95",
+  "version": "0.1.1-early.96",
+  "published": "2026-10-06T17:04:44.708Z",
+  "notes": "- Dab's text dock and flight with a painted trail",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.96",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.95/brushfall-server-0.1.1-early.95.tar.gz",
-      "sha256": "63432e21302266465c6001105b1584fd8d2d9deedfe1dd696830bb355bce8dfc",
-      "size": 32680315
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.96/brushfall-server-0.1.1-early.96.tar.gz",
+      "sha256": "5fc4a44c5f409c2e34ef793b8fb80546410ecc52c64670c1db15708bcd6c34f0",
+      "size": 32694837
     }
   },
-  "commit": "03ef23061826997b0633c516c69349b81ac0825e"
+  "commit": "ac187e95c7075c9fb04b3bd04acbed44f5fd2e34"
 }
