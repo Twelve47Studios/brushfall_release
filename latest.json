@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.112",
-  "published": "2026-10-06T23:27:55.086Z",
-  "notes": "- Take me there on a quest step done in a menu points at that menu (Dab rings Sketchbook, Bags, Crafting...) in…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.112",
+  "version": "0.1.1-early.113",
+  "published": "2026-10-06T23:35:25.175Z",
+  "notes": "- A big painted mouse pointer in game, easy to spot against the world (buttons keep the hand, text boxes the I-…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.113",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.112/brushfall-server-0.1.1-early.112.tar.gz",
-      "sha256": "a0a9a386ba6fb6d758beb0a31428c4c77b94a33121f8364d9ed06544fa9f1859",
-      "size": 38808951
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.113/brushfall-server-0.1.1-early.113.tar.gz",
+      "sha256": "c985b47b0f068a2752584c1fd629e8de40cbe74bfc7a73830cdc3121a9a322ca",
+      "size": 38811246
     }
   },
-  "commit": "b720b770ce4f6a4be3f57d86ebd1e88d16a0a4ae"
+  "commit": "c78c4f616de4e5594261b0ed8fdea8cf4c400c3b"
 }
