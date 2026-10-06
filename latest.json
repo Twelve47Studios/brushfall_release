@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.100",
-  "published": "2026-10-06T18:03:50.340Z",
-  "notes": "- Round item art in round slots, festival buff icon, dock under the Window badge, Dab avoids other buttons, tou…\n- HUD context reads the tutorial holds without a new set per frame\n- HUD context tidies the town (abilities and potions tuck away until needed)",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.100",
+  "version": "0.1.1-early.101",
+  "published": "2026-10-06T18:09:18.977Z",
+  "notes": "- Each hero practices in the yard of their own faction's start zone\n- Giggle Dummies in the Atelier list; dummies take nothing from the world's dice\n- Practice yards outside Primerton and Bleedwater, with Giggle Dummies and Dab's ability lesson",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.101",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.100/brushfall-server-0.1.1-early.100.tar.gz",
-      "sha256": "58255e7f6c59ebd2a00acdfad02d91606804061fcce1072bf6aeae9a6fc269df",
-      "size": 32730223
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.101/brushfall-server-0.1.1-early.101.tar.gz",
+      "sha256": "5c6d31860a915f6f4db0f90777fd63d1255d50197581c814cc8c0f5af753efc4",
+      "size": 38590581
     }
   },
-  "commit": "306278e4412457096d3a0fcef6eac3a205a50d19"
+  "commit": "b13ab72072be04370092a1536cdf0a327d617e74"
 }
