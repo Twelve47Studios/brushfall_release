@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.116",
-  "published": "2026-10-07T01:02:11.380Z",
-  "notes": "- Long creature names keep their level on the nameplate; feat(ui): login links to the How to Play guide (wiki)",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.116",
+  "version": "0.1.1-early.117",
+  "published": "2026-10-07T03:16:49.872Z",
+  "notes": "- The hero picture on Name your hero shows on iPhones instead of a dot",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.117",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.116/brushfall-server-0.1.1-early.116.tar.gz",
-      "sha256": "12a7dbc57bb9b30573ae9960f8abf4f0479e49f43db84c5633fabd087f3dd53d",
-      "size": 38813459
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.117/brushfall-server-0.1.1-early.117.tar.gz",
+      "sha256": "7da7be517bd8991210c5da8c6c8c884fdbd8377d0ba76e968f7c292934a2e854",
+      "size": 38814253
     }
   },
-  "commit": "f57aeb22ff10ed20c90ebcb8b5cd03cb6c369bbf"
+  "commit": "57d3261486b83e053a575448020faba8e1b62e2a"
 }
