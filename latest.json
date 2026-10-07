@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.114",
-  "published": "2026-10-07T00:19:15.350Z",
-  "notes": "- The ground stops going flat when another Brushfall window is open (only windows playing on screen count, the…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.114",
+  "version": "0.1.1-early.115",
+  "published": "2026-10-07T00:40:21.234Z",
+  "notes": "- Behind-the-scenes improvements.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.115",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.114/brushfall-server-0.1.1-early.114.tar.gz",
-      "sha256": "470c9dc8e55e930d367acdb754efde3f358a1ff4a14c171a21f9b2516d248399",
-      "size": 38812349
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.115/brushfall-server-0.1.1-early.115.tar.gz",
+      "sha256": "59218652c10d9843f7acd9d48ea1e6e1e37336ab824defa12e156fa2b7fedf63",
+      "size": 38812631
     }
   },
-  "commit": "84a346b6c318dc5b55c6bece1faeef491f949aac"
+  "commit": "c623e7538f40350def5b957359d19cec02dd67d3"
 }
