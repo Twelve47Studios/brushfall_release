@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.113",
-  "published": "2026-10-06T23:35:25.175Z",
-  "notes": "- A big painted mouse pointer in game, easy to spot against the world (buttons keep the hand, text boxes the I-…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.113",
+  "version": "0.1.1-early.114",
+  "published": "2026-10-07T00:19:15.350Z",
+  "notes": "- The ground stops going flat when another Brushfall window is open (only windows playing on screen count, the…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.114",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.113/brushfall-server-0.1.1-early.113.tar.gz",
-      "sha256": "c985b47b0f068a2752584c1fd629e8de40cbe74bfc7a73830cdc3121a9a322ca",
-      "size": 38811246
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.114/brushfall-server-0.1.1-early.114.tar.gz",
+      "sha256": "470c9dc8e55e930d367acdb754efde3f358a1ff4a14c171a21f9b2516d248399",
+      "size": 38812349
     }
   },
-  "commit": "c78c4f616de4e5594261b0ed8fdea8cf4c400c3b"
+  "commit": "84a346b6c318dc5b55c6bece1faeef491f949aac"
 }
