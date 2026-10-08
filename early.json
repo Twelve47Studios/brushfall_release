@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.117",
-  "published": "2026-10-07T03:16:49.872Z",
-  "notes": "- The hero picture on Name your hero shows on iPhones instead of a dot",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.117",
+  "version": "0.1.1-early.118",
+  "published": "2026-10-08T16:42:39.277Z",
+  "notes": "- Switch a hero to or from Sprout mode on the Studio Desk, live while they play",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.118",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.117/brushfall-server-0.1.1-early.117.tar.gz",
-      "sha256": "7da7be517bd8991210c5da8c6c8c884fdbd8377d0ba76e968f7c292934a2e854",
-      "size": 38814253
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.118/brushfall-server-0.1.1-early.118.tar.gz",
+      "sha256": "caae58aa99e231eb4deac10490459c86bcb8df0959d32a406acd8b59460f7352",
+      "size": 38817892
     }
   },
-  "commit": "57d3261486b83e053a575448020faba8e1b62e2a"
+  "commit": "6f7d76eba8ef4308a6758d391340feeb452c8a95"
 }
