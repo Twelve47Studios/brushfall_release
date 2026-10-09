@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.118",
-  "published": "2026-10-08T16:42:39.277Z",
-  "notes": "- Switch a hero to or from Sprout mode on the Studio Desk, live while they play",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.118",
+  "version": "0.1.1-early.119",
+  "published": "2026-10-09T14:22:53.898Z",
+  "notes": "- Phone fights keep the HUD under a quarter of the screen\n- The phone fight quest chip sits under the minimap, not mid-screen\n- Slim target strip on phones; inspect and paint on long-press\n- The big Use button fades in a phone fight unless it loots\n- Creature lines that become speech bubbles skip the phone chat ticker\n- Phones tuck the HUD into a compact layout during any fight\n- Phone notice lane keeps the centre of the screen clear\n- Music stays silent on QA test worlds unless the URL has ?music\n- …and 1 smaller fix",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.119",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.118/brushfall-server-0.1.1-early.118.tar.gz",
-      "sha256": "caae58aa99e231eb4deac10490459c86bcb8df0959d32a406acd8b59460f7352",
-      "size": 38817892
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.119/brushfall-server-0.1.1-early.119.tar.gz",
+      "sha256": "b94caaddd82a190d071e915150d1346531dafd155421d754fb40489929499554",
+      "size": 39134206
     }
   },
-  "commit": "6f7d76eba8ef4308a6758d391340feeb452c8a95"
+  "commit": "e847f0d22128a1e77c17f2b771f209e743368362"
 }
