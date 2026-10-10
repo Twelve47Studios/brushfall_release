@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.122",
-  "published": "2026-10-10T14:10:43.837Z",
-  "notes": "- Review fixes: the cupboard under a found mouse, walk-in by your own steering, no casts indoors\n- No nameplates on house doors outdoors; home toys use the shared toy kinds and hash; the light switch is looke…\n- Nothing is cast in a cozy home\n- Bigger ability buttons on phones (52 px slots, main about 66 px), HUD budget 0.27\n- Npm run trailer, a 70 s trailer and a 30 s vertical cut recorded from the real game\n- A home's labels always show whole: kept inside the room and drawn over walls\n- Ship publishes new voice lines before pushing, so a long render never drops the push\n- Use picks what you face indoors, a door wins on its step, a docked prompt, home art in the Atelier\n- …and 12 smaller fixes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.122",
+  "version": "0.1.1-early.123",
+  "published": "2026-10-10T14:19:34.133Z",
+  "notes": "- \"In the world now\" shows the hung art, not the Framer's own waiting painting",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.123",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.122/brushfall-server-0.1.1-early.122.tar.gz",
-      "sha256": "82accda87d41972ff64a366ac5b7d13b7da7a66ddf25eb526ab40bda5789d15d",
-      "size": 53486857
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.123/brushfall-server-0.1.1-early.123.tar.gz",
+      "sha256": "96e0d5ebdbac56f8b2ff457c71520844f1671ffea7938b75a694c9e531f69a25",
+      "size": 53487717
     }
   },
-  "commit": "e019e2ea502c7b002db2026017e3788aecc70994"
+  "commit": "546751bff99a155b0fa943349919ef41acfbd097"
 }
