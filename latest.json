@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.119",
-  "published": "2026-10-09T14:22:53.898Z",
-  "notes": "- Phone fights keep the HUD under a quarter of the screen\n- The phone fight quest chip sits under the minimap, not mid-screen\n- Slim target strip on phones; inspect and paint on long-press\n- The big Use button fades in a phone fight unless it loots\n- Creature lines that become speech bubbles skip the phone chat ticker\n- Phones tuck the HUD into a compact layout during any fight\n- Phone notice lane keeps the centre of the screen clear\n- Music stays silent on QA test worlds unless the URL has ?music\n- …and 1 smaller fix",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.119",
+  "version": "0.1.1-early.120",
+  "published": "2026-10-10T01:22:45.536Z",
+  "notes": "- On a short phone a 'for' Sprout's Cheer and Take me there go to the menu column (Paint stays on the bar)\n- Grown-up Settings on a Sprout's own screen\n- Any account sets How much help for its own Sprouts (POST /api/me/sprout-help)\n- Landscape phones fold the effect icons, not the party; the chat sheet never runs off a short screen; audit: t…\n- The Chrome harness never leaves browsers or profiles behind (exit hooks, double Ctrl+C, stale sweep)\n- A Sprout's bar on a phone on its side stays low, under the frames\n- A big Paint button on the Sprout bar opens the Atelier (it waits out a fight)\n- Bag slot better/worse arrows sit in the corner off the item; guide chip close is 48 px on touch\n- …and 47 smaller fixes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.120",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.119/brushfall-server-0.1.1-early.119.tar.gz",
-      "sha256": "b94caaddd82a190d071e915150d1346531dafd155421d754fb40489929499554",
-      "size": 39134206
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.120/brushfall-server-0.1.1-early.120.tar.gz",
+      "sha256": "13279078d73895bd31229c52de4d770c367b15f7413913eab7209bc02fbdf07e",
+      "size": 43304155
     }
   },
-  "commit": "e847f0d22128a1e77c17f2b771f209e743368362"
+  "commit": "c67988c6107c5bb681574f9286d33eeef78fc742"
 }
