@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.123",
-  "published": "2026-10-10T14:19:34.133Z",
-  "notes": "- \"In the world now\" shows the hung art, not the Framer's own waiting painting",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.123",
+  "version": "0.1.1-early.124",
+  "published": "2026-10-10T14:44:47.678Z",
+  "notes": "- Public:sync pushes over SSH and reports git failures plainly",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.124",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.123/brushfall-server-0.1.1-early.123.tar.gz",
-      "sha256": "96e0d5ebdbac56f8b2ff457c71520844f1671ffea7938b75a694c9e531f69a25",
-      "size": 53487717
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.124/brushfall-server-0.1.1-early.124.tar.gz",
+      "sha256": "e47bce5b790a14ac48342150af644f4507c07865c687b27259ad4f3e3ed52895",
+      "size": 53488873
     }
   },
-  "commit": "546751bff99a155b0fa943349919ef41acfbd097"
+  "commit": "378825a58c9a0ce970ec1dbb3d6c17ea15f38e19"
 }
