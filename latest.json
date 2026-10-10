@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.121",
-  "published": "2026-10-10T04:30:30.137Z",
-  "notes": "- A new welcome redraws the road (switching heroes on one side with the same count of hand-ins)\n- Review pass on the road and the Ford\n- Review pass: the conversation ends with its NPC panel, the Sprout dialog trusts the server's offer, the 8-tip…\n- Review pass: family-only quest drops, full heal after Sprout talents, one leave per session, cached offers ke…\n- Beats queue off the tick and write once a second in one transaction; summary filters in SQL and is cached; on…\n- Walk across Glazebrook Ford's stilt bridge; scenery keeps off every pocket prop; the Field's signpost in clea…\n- Qa:browser checks the first-hour guide (card, hello, That's enough, switch, controller, Sprout); Atelier beat…\n- The Ford's water faces the sky and reads bright; Lumen glows warmer; docs for the road art\n- …and 29 smaller fixes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.121",
+  "version": "0.1.1-early.122",
+  "published": "2026-10-10T14:10:43.837Z",
+  "notes": "- Review fixes: the cupboard under a found mouse, walk-in by your own steering, no casts indoors\n- No nameplates on house doors outdoors; home toys use the shared toy kinds and hash; the light switch is looke…\n- Nothing is cast in a cozy home\n- Bigger ability buttons on phones (52 px slots, main about 66 px), HUD budget 0.27\n- Npm run trailer, a 70 s trailer and a 30 s vertical cut recorded from the real game\n- A home's labels always show whole: kept inside the room and drawn over walls\n- Ship publishes new voice lines before pushing, so a long render never drops the push\n- Use picks what you face indoors, a door wins on its step, a docked prompt, home art in the Atelier\n- …and 12 smaller fixes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.122",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.121/brushfall-server-0.1.1-early.121.tar.gz",
-      "sha256": "4576d8ac9984723944086aee6ec9a9e6f14acfac08d88045ffa7987bd598f803",
-      "size": 53192523
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.122/brushfall-server-0.1.1-early.122.tar.gz",
+      "sha256": "82accda87d41972ff64a366ac5b7d13b7da7a66ddf25eb526ab40bda5789d15d",
+      "size": 53486857
     }
   },
-  "commit": "9e387b6509d24f8b1e68a8213cdfa211ec69be75"
+  "commit": "e019e2ea502c7b002db2026017e3788aecc70994"
 }
