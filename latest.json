@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.120",
-  "published": "2026-10-10T01:22:45.536Z",
-  "notes": "- On a short phone a 'for' Sprout's Cheer and Take me there go to the menu column (Paint stays on the bar)\n- Grown-up Settings on a Sprout's own screen\n- Any account sets How much help for its own Sprouts (POST /api/me/sprout-help)\n- Landscape phones fold the effect icons, not the party; the chat sheet never runs off a short screen; audit: t…\n- The Chrome harness never leaves browsers or profiles behind (exit hooks, double Ctrl+C, stale sweep)\n- A Sprout's bar on a phone on its side stays low, under the frames\n- A big Paint button on the Sprout bar opens the Atelier (it waits out a fight)\n- Bag slot better/worse arrows sit in the corner off the item; guide chip close is 48 px on touch\n- …and 47 smaller fixes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.120",
+  "version": "0.1.1-early.121",
+  "published": "2026-10-10T04:30:30.137Z",
+  "notes": "- A new welcome redraws the road (switching heroes on one side with the same count of hand-ins)\n- Review pass on the road and the Ford\n- Review pass: the conversation ends with its NPC panel, the Sprout dialog trusts the server's offer, the 8-tip…\n- Review pass: family-only quest drops, full heal after Sprout talents, one leave per session, cached offers ke…\n- Beats queue off the tick and write once a second in one transaction; summary filters in SQL and is cached; on…\n- Walk across Glazebrook Ford's stilt bridge; scenery keeps off every pocket prop; the Field's signpost in clea…\n- Qa:browser checks the first-hour guide (card, hello, That's enough, switch, controller, Sprout); Atelier beat…\n- The Ford's water faces the sky and reads bright; Lumen glows warmer; docs for the road art\n- …and 29 smaller fixes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.121",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.120/brushfall-server-0.1.1-early.120.tar.gz",
-      "sha256": "13279078d73895bd31229c52de4d770c367b15f7413913eab7209bc02fbdf07e",
-      "size": 43304155
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.121/brushfall-server-0.1.1-early.121.tar.gz",
+      "sha256": "4576d8ac9984723944086aee6ec9a9e6f14acfac08d88045ffa7987bd598f803",
+      "size": 53192523
     }
   },
-  "commit": "c67988c6107c5bb681574f9286d33eeef78fc742"
+  "commit": "9e387b6509d24f8b1e68a8213cdfa211ec69be75"
 }
