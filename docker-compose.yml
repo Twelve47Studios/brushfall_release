@@ -1,9 +1,9 @@
 # Brushfall: self-hosting with Docker Compose.
 #
-#   put a .env file next to this one (server name, invite codes, ...; see the wiki: https://github.com/Twelve47Studios/brushfall_release/wiki)
+#   put a .env file next to this one (server name, invite codes, ...; see the hosting guide)
 #   docker compose up -d             # http://localhost:8080
 #
-# Reaching it from outside your home (pick one; see https://github.com/Twelve47Studios/brushfall_release/wiki/Playing-From-Outside-Home):
+# Reaching it from outside your home (pick one; see the hosting guide):
 #   docker compose --profile tunnel up -d      Cloudflare Tunnel (TUNNEL_TOKEN; free account + domain)
 #   docker compose --profile tailscale up -d   Tailscale (TS_AUTHKEY; private to your tailnet, or Funnel)
 #   docker compose --profile https up -d       Caddy on a VPS/home server with ports 80/443 open (BRUSHFALL_DOMAIN)
@@ -15,7 +15,7 @@ services:
     image: ghcr.io/twelve47studios/brushfall:${BRUSHFALL_TAG:-latest}
     container_name: brushfall
     restart: unless-stopped
-    # Values come from .env (optional; copy .env.example to .env). Empty = use the config file / default.
+    # Values come from .env (optional; see deploy/.env.example). Empty = use the config file / default.
     environment:
       DATA_DIR: /data
       PORT: 8080
@@ -37,6 +37,7 @@ services:
       SMTP_URL: ${SMTP_URL:-}
       REPORT_EMAIL_TO: ${REPORT_EMAIL_TO:-}
       REPORT_EMAIL_FROM: ${REPORT_EMAIL_FROM:-}
+      UPDATE_CHANNEL: ${UPDATE_CHANNEL:-}
       UPDATE_FEED_URL: ${UPDATE_FEED_URL:-}
       PUBLIC_ISSUES_URL: ${PUBLIC_ISSUES_URL:-}
       DEFAULT_CHAT_MODE: ${DEFAULT_CHAT_MODE:-}
@@ -48,6 +49,11 @@ services:
       ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-}
       MAX_CONN_PER_IP: ${MAX_CONN_PER_IP:-}
       MEASURE_BANDWIDTH: ${MEASURE_BANDWIDTH:-}
+      DAY_CYCLE_MINUTES: ${DAY_CYCLE_MINUTES:-}
+      JOIN_NOTICES: ${JOIN_NOTICES:-}
+      CHECKINS: ${CHECKINS:-}
+      PARENTS_HANG_CHILD_ART: ${PARENTS_HANG_CHILD_ART:-}
+      HTTP_PORT: ${HTTP_PORT:-}
     ports:
       # Only reachable through the tunnel/Tailscale? Use "127.0.0.1:${BRUSHFALL_PORT:-8080}:8080" instead.
       - "${BRUSHFALL_PORT:-8080}:8080"

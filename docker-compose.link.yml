@@ -1,5 +1,5 @@
 # Brushfall Realm Link: two (or more) households run the same world. Use this file at EACH household.
-# Step-by-step guide: https://github.com/Twelve47Studios/brushfall_release/wiki/Realm-Link
+# See the hosting guide ("Linking two family servers") and the Realm Link design notes.
 #
 #   1. In Cloudflare, make ONE "play" tunnel with public hostname play.example.com -> http://brushfall:8080.
 #      Every household uses the SAME PLAY_TUNNEL_TOKEN (that makes the connectors replicas).
