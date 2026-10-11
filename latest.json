@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.126",
-  "published": "2026-10-11T04:36:42.604Z",
-  "notes": "- Zone parity — Smudge pockets and Bleedwater's square as rich as Gessoshire's\n- Speech bubbles fit a whole 120-character line (wider, four lines), so the Mayor's pointer isn't cut off\n- Your first quest finds you — arrive facing Pip/We-Three, a Next lead, the trail and the greeter's call\n- The hop quests' last plate and shelf take a hop to get on\n- Name Bogtoad Supreme on the death card, not \"a Bogtoad Supreme\"\n- Pace bot sells unusable gear when its bags are full before a hand-in\n- Wetwash matches Gessoshire: a second Court quest, equal rewards, fuller fen",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.126",
+  "version": "0.1.1-early.127",
+  "published": "2026-10-11T05:08:36.953Z",
+  "notes": "- Space between the side cards and Surprise me on hero creation",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.127",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.126/brushfall-server-0.1.1-early.126.tar.gz",
-      "sha256": "9414b85e857cd97886756329f7e1d85e158d1e2258b63eaf3d4226f258105d41",
-      "size": 55085774
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.127/brushfall-server-0.1.1-early.127.tar.gz",
+      "sha256": "392c98a88e26d819e3ea5d4ca9c25618dd7048355a3e480589e6ff708ee22578",
+      "size": 55086374
     }
   },
-  "commit": "9988b24d8b898676de5943156c928a133d60a118"
+  "commit": "c1ce0913686502f0d2ba5d7b293d430d25a6da7f"
 }
