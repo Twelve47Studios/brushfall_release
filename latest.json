@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.128",
-  "published": "2026-10-11T05:33:17.740Z",
-  "notes": "- Making a hero keeps Back / Next pinned to the bottom of the screen; each new step starts at the top\n- Build the CI image with no credential helper, so macOS stops asking the terminal for Docker Desktop's app data\n- One voices button on the step, readingLook everywhere, kidGuide owns the wordless rule; phone card layout\n- One check for a new grown-up, one transaction helper, deletes keep the never-zero rule\n- List a grown-up's children in a stable order\n- Review follow-ups for grown-ups\n- Who's this little hero for? reading level and help per Sprout hero\n- Family panel shows every grown-up of a child; add, remove and answer asks\n- …and 1 smaller fix",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.128",
+  "version": "0.1.1-early.129",
+  "published": "2026-10-11T18:15:44.801Z",
+  "notes": "- The Sprout uses every ability it has, whatever the fight\n- Starting lands give room to meet creatures one at a time\n- Creatures wait to come back while a hero fights nearby\n- The little reader's card line wraps to two lines\n- Tap the next face to see the way; always a next place to go",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.129",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.128/brushfall-server-0.1.1-early.128.tar.gz",
-      "sha256": "fa81a8c98dfad97be2b1646cd1ee2244b72864f29a8e0c3c6f41048d4d2f4cf2",
-      "size": 55210338
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.129/brushfall-server-0.1.1-early.129.tar.gz",
+      "sha256": "fdea85a90ceeec23ed9e3751280c3bf700872d4e9e956d6b557524ca2b68ee12",
+      "size": 57868760
     }
   },
-  "commit": "0b68df9abdf6a0dcdbfc4b5d69dc2dd45c7ed363"
+  "commit": "df7ec82573211eef09b764a9eb429936bd842550"
 }
