@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.124",
-  "published": "2026-10-10T14:44:47.678Z",
-  "notes": "- Public:sync pushes over SSH and reports git failures plainly",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.124",
+  "version": "0.1.1-early.125",
+  "published": "2026-10-11T03:26:48.200Z",
+  "notes": "- Where-line under the party frame's bar; Join rows not dimmed; Party panel rows wrap on phones\n- Play together — join, ask card, linked families, where-lines, hop to\n- Say plainly what happened to a family-link request; replicate links over Realm Link\n- Asks keep family-only children safe, never go to a Sprout leader, end on promote; a hop breaks a cast and spl…\n- Link families between households\n- Push only the mover's party on a map change, one kin rule, one join path\n- Ask to join, hop to a party member, where a member is; relatives count as family for invites\n- Store events party_ask and hop\n- …and 1 smaller fix",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.125",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.124/brushfall-server-0.1.1-early.124.tar.gz",
-      "sha256": "e47bce5b790a14ac48342150af644f4507c07865c687b27259ad4f3e3ed52895",
-      "size": 53488873
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.125/brushfall-server-0.1.1-early.125.tar.gz",
+      "sha256": "3fb13158777e6fa0f40f15ff7b63cb68221f3e3e4da8d4b0d0de9fde7f17e48f",
+      "size": 53510402
     }
   },
-  "commit": "378825a58c9a0ce970ec1dbb3d6c17ea15f38e19"
+  "commit": "6e1fefda10abe24d5d6ecc5ab593fc60cb471315"
 }
