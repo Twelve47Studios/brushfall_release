@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.125",
-  "published": "2026-10-11T03:26:48.200Z",
-  "notes": "- Where-line under the party frame's bar; Join rows not dimmed; Party panel rows wrap on phones\n- Play together — join, ask card, linked families, where-lines, hop to\n- Say plainly what happened to a family-link request; replicate links over Realm Link\n- Asks keep family-only children safe, never go to a Sprout leader, end on promote; a hop breaks a cast and spl…\n- Link families between households\n- Push only the mover's party on a map change, one kin rule, one join path\n- Ask to join, hop to a party member, where a member is; relatives count as family for invites\n- Store events party_ask and hop\n- …and 1 smaller fix",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.125",
+  "version": "0.1.1-early.126",
+  "published": "2026-10-11T04:36:42.604Z",
+  "notes": "- Zone parity — Smudge pockets and Bleedwater's square as rich as Gessoshire's\n- Speech bubbles fit a whole 120-character line (wider, four lines), so the Mayor's pointer isn't cut off\n- Your first quest finds you — arrive facing Pip/We-Three, a Next lead, the trail and the greeter's call\n- The hop quests' last plate and shelf take a hop to get on\n- Name Bogtoad Supreme on the death card, not \"a Bogtoad Supreme\"\n- Pace bot sells unusable gear when its bags are full before a hand-in\n- Wetwash matches Gessoshire: a second Court quest, equal rewards, fuller fen",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.126",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.125/brushfall-server-0.1.1-early.125.tar.gz",
-      "sha256": "3fb13158777e6fa0f40f15ff7b63cb68221f3e3e4da8d4b0d0de9fde7f17e48f",
-      "size": 53510402
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.126/brushfall-server-0.1.1-early.126.tar.gz",
+      "sha256": "9414b85e857cd97886756329f7e1d85e158d1e2258b63eaf3d4226f258105d41",
+      "size": 55085774
     }
   },
-  "commit": "6e1fefda10abe24d5d6ecc5ab593fc60cb471315"
+  "commit": "9988b24d8b898676de5943156c928a133d60a118"
 }
