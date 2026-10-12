@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.129",
-  "published": "2026-10-11T18:15:44.801Z",
-  "notes": "- The Sprout uses every ability it has, whatever the fight\n- Starting lands give room to meet creatures one at a time\n- Creatures wait to come back while a hero fights nearby\n- The little reader's card line wraps to two lines\n- Tap the next face to see the way; always a next place to go",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.129",
+  "version": "0.1.1-early.130",
+  "published": "2026-10-12T16:22:22.316Z",
+  "notes": "- Hidden flag survives neither a reconnect nor a rate-limited away\n- The game rests while it is out of sight",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.130",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.129/brushfall-server-0.1.1-early.129.tar.gz",
-      "sha256": "fdea85a90ceeec23ed9e3751280c3bf700872d4e9e956d6b557524ca2b68ee12",
-      "size": 57868760
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.130/brushfall-server-0.1.1-early.130.tar.gz",
+      "sha256": "9be650c0bca10e5351218359f5fb1e2cb528aac44adf51cf69a89d58822c7c74",
+      "size": 57870054
     }
   },
-  "commit": "df7ec82573211eef09b764a9eb429936bd842550"
+  "commit": "c0f4bb0e63cdffda4d5d50977b42a8b5f733a13b"
 }
