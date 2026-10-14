@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.132",
-  "published": "2026-10-14T01:54:49.029Z",
-  "notes": "- Check now sees a new build within a minute",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.132",
+  "version": "0.1.1-early.133",
+  "published": "2026-10-14T22:06:53.928Z",
+  "notes": "- Keep only the newest 5 early images on GHCR\n- The Docker install works: every build publishes the server image",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.133",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.132/brushfall-server-0.1.1-early.132.tar.gz",
-      "sha256": "ec24657672182ea4c62e3833933f2f2d3240c4076e988cf2ff1dd8bd4bd458f0",
-      "size": 57869996
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.133/brushfall-server-0.1.1-early.133.tar.gz",
+      "sha256": "f0335e94f01ebd2f7508484bfba460eec578000821914aa790d5e259d965e9ec",
+      "size": 57872102
     }
   },
-  "commit": "7aa292dbbd49b1b7603cb100febd6be60f13b31a"
+  "commit": "fb20a3154e1631ccce4d53b7519873caff4a5e80"
 }
