@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.134",
-  "published": "2026-10-14T22:17:33.263Z",
-  "notes": "- Pushing images no longer makes macOS ask for app data every time",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.134",
+  "version": "0.1.1-early.135",
+  "published": "2026-10-14T22:22:44.652Z",
+  "notes": "- Early.yml is valid YAML again, and a test parses every workflow",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.135",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.134/brushfall-server-0.1.1-early.134.tar.gz",
-      "sha256": "ce467e142cdb0ebf12379b4e32faa38236c92705221e4c127b53486e3dc9d25f",
-      "size": 57870361
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.135/brushfall-server-0.1.1-early.135.tar.gz",
+      "sha256": "3c2c5baef0cce6b9318bd45b946a6c0c70ad9dce00787487bbd55ee9d3b291a3",
+      "size": 57870344
     }
   },
-  "commit": "058e29c8c63611f1a92e68291ff6760c1b51ac54"
+  "commit": "4d99ce6a4ab5f925fe9ea0714de853ce2ab03d1d"
 }
