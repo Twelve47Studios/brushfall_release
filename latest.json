@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.133",
-  "published": "2026-10-14T22:06:53.928Z",
-  "notes": "- Keep only the newest 5 early images on GHCR\n- The Docker install works: every build publishes the server image",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.133",
+  "version": "0.1.1-early.134",
+  "published": "2026-10-14T22:17:33.263Z",
+  "notes": "- Pushing images no longer makes macOS ask for app data every time",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.134",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.133/brushfall-server-0.1.1-early.133.tar.gz",
-      "sha256": "f0335e94f01ebd2f7508484bfba460eec578000821914aa790d5e259d965e9ec",
-      "size": 57872102
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.134/brushfall-server-0.1.1-early.134.tar.gz",
+      "sha256": "ce467e142cdb0ebf12379b4e32faa38236c92705221e4c127b53486e3dc9d25f",
+      "size": 57870361
     }
   },
-  "commit": "fb20a3154e1631ccce4d53b7519873caff4a5e80"
+  "commit": "058e29c8c63611f1a92e68291ff6760c1b51ac54"
 }
