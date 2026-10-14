@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.130",
-  "published": "2026-10-12T16:22:22.316Z",
-  "notes": "- Hidden flag survives neither a reconnect nor a rate-limited away\n- The game rests while it is out of sight",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.130",
+  "version": "0.1.1-early.131",
+  "published": "2026-10-14T01:45:23.607Z",
+  "notes": "- Studio Desk shows HTTPS on behind Caddy or a tunnel",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.131",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.130/brushfall-server-0.1.1-early.130.tar.gz",
-      "sha256": "9be650c0bca10e5351218359f5fb1e2cb528aac44adf51cf69a89d58822c7c74",
-      "size": 57870054
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.131/brushfall-server-0.1.1-early.131.tar.gz",
+      "sha256": "7cd8fa9d5a2680ca8adc87f5ec05163c71d5a2d083973d222c995799519e1042",
+      "size": 57870203
     }
   },
-  "commit": "c0f4bb0e63cdffda4d5d50977b42a8b5f733a13b"
+  "commit": "aa66e1469cf3a35c5a55b636f2c46b140b82c062"
 }
