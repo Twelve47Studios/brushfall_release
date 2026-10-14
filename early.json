@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.135",
-  "published": "2026-10-14T22:22:44.652Z",
-  "notes": "- Early.yml is valid YAML again, and a test parses every workflow",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.135",
+  "version": "0.1.1-early.136",
+  "published": "2026-10-14T23:51:15.185Z",
+  "notes": "- The example .env leaves the world's settings to the setup page; a setup GIF recorder\n- The render sandbox starts again (its hero has a side and quest list for the roads)\n- Set up a new server in the browser, with safe defaults\n- Downloads include their own Node.js\n- One-command setup script for Docker hosts",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.136",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.135/brushfall-server-0.1.1-early.135.tar.gz",
-      "sha256": "3c2c5baef0cce6b9318bd45b946a6c0c70ad9dce00787487bbd55ee9d3b291a3",
-      "size": 57870344
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.136/brushfall-server-0.1.1-early.136.tar.gz",
+      "sha256": "84ff6e1e046c641258aa2bba98fe58fecf36a37196f50ba088d2857eeda68a0f",
+      "size": 57876973
     }
   },
-  "commit": "4d99ce6a4ab5f925fe9ea0714de853ce2ab03d1d"
+  "commit": "cf4a3a47a66d0a375887ad2c9120dc340c3003db"
 }
