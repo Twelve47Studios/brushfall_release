@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.131",
-  "published": "2026-10-14T01:45:23.607Z",
-  "notes": "- Studio Desk shows HTTPS on behind Caddy or a tunnel",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.131",
+  "version": "0.1.1-early.132",
+  "published": "2026-10-14T01:54:49.029Z",
+  "notes": "- Check now sees a new build within a minute",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.132",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.131/brushfall-server-0.1.1-early.131.tar.gz",
-      "sha256": "7cd8fa9d5a2680ca8adc87f5ec05163c71d5a2d083973d222c995799519e1042",
-      "size": 57870203
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.132/brushfall-server-0.1.1-early.132.tar.gz",
+      "sha256": "ec24657672182ea4c62e3833933f2f2d3240c4076e988cf2ff1dd8bd4bd458f0",
+      "size": 57869996
     }
   },
-  "commit": "aa66e1469cf3a35c5a55b636f2c46b140b82c062"
+  "commit": "7aa292dbbd49b1b7603cb100febd6be60f13b31a"
 }
