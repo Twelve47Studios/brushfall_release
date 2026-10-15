@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.136",
-  "published": "2026-10-14T23:51:15.185Z",
-  "notes": "- The example .env leaves the world's settings to the setup page; a setup GIF recorder\n- The render sandbox starts again (its hero has a side and quest list for the roads)\n- Set up a new server in the browser, with safe defaults\n- Downloads include their own Node.js\n- One-command setup script for Docker hosts",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.136",
+  "version": "0.1.1-early.137",
+  "published": "2026-10-15T00:00:22.767Z",
+  "notes": "- The setup GIF keeps the setup code in view (no Docker layer progress) and types into the right field\n- The README banner's line says what Brushfall is\n- README stills set their scenes like a player",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.137",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.136/brushfall-server-0.1.1-early.136.tar.gz",
-      "sha256": "84ff6e1e046c641258aa2bba98fe58fecf36a37196f50ba088d2857eeda68a0f",
-      "size": 57876973
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.137/brushfall-server-0.1.1-early.137.tar.gz",
+      "sha256": "e5830f4c3abce48ff73bde45dea446b053cf62dee202ca685e0ccf870f2c1aa3",
+      "size": 57877161
     }
   },
-  "commit": "cf4a3a47a66d0a375887ad2c9120dc340c3003db"
+  "commit": "e029383a87ec187c21a61cdf53176fd33e38f6d4"
 }
