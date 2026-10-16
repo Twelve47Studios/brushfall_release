@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.138",
-  "published": "2026-10-16T00:44:04.070Z",
-  "notes": "- Hit paint covers at most about a fifth of a creature, so a family's painting stays visible in a fight",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.138",
+  "version": "0.1.1-early.139",
+  "published": "2026-10-16T17:29:58.137Z",
+  "notes": "- Painting something you picked opens straight onto it, with no picker flash first",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.139",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.138/brushfall-server-0.1.1-early.138.tar.gz",
-      "sha256": "51401ea6a4813e199a21ff2fb0d0a53a49b3c2ab88e88de37cd1e0de380acd06",
-      "size": 57876133
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.139/brushfall-server-0.1.1-early.139.tar.gz",
+      "sha256": "fbf6c04a402cb691ea172aa5ca798a97441ce78bf14a56a6cc8d4e2da9c65f78",
+      "size": 57875643
     }
   },
-  "commit": "eca9c133ed654737adf3cb5f2b2a6990ea61cbf4"
+  "commit": "9a36efe796a49f3abdca6308583d1eedd5780f6b"
 }
