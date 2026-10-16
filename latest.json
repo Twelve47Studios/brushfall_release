@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.140",
-  "published": "2026-10-16T18:46:46.176Z",
-  "notes": "- The bags' side column no longer flickers scrollbars when a button is hovered\n- Test, art and trailer worlds never check GitHub for updates\n- Sign-up puzzle setting and a top bar that fits every screen",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.140",
+  "version": "0.1.1-early.141",
+  "published": "2026-10-16T19:18:16.148Z",
+  "notes": "- Behind-the-scenes improvements.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.141",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.140/brushfall-server-0.1.1-early.140.tar.gz",
-      "sha256": "330dfcca20d2de573aa4873dea39d8302edcf899db7e896525155d02fc1859be",
-      "size": 57880441
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.141/brushfall-server-0.1.1-early.141.tar.gz",
+      "sha256": "d45c2c815b33b9856b9156ecc2a308bed4ca2a7d43640e62a9a34d626c61877a",
+      "size": 57879921
     }
   },
-  "commit": "9df42c499b309f5160820316a18d37516d2261ea"
+  "commit": "0ce6bf52f91c558b687a142711688504017366e5"
 }
