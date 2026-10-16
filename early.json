@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.139",
-  "published": "2026-10-16T17:29:58.137Z",
-  "notes": "- Painting something you picked opens straight onto it, with no picker flash first",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.139",
+  "version": "0.1.1-early.140",
+  "published": "2026-10-16T18:46:46.176Z",
+  "notes": "- The bags' side column no longer flickers scrollbars when a button is hovered\n- Test, art and trailer worlds never check GitHub for updates\n- Sign-up puzzle setting and a top bar that fits every screen",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.140",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.139/brushfall-server-0.1.1-early.139.tar.gz",
-      "sha256": "fbf6c04a402cb691ea172aa5ca798a97441ce78bf14a56a6cc8d4e2da9c65f78",
-      "size": 57875643
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.140/brushfall-server-0.1.1-early.140.tar.gz",
+      "sha256": "330dfcca20d2de573aa4873dea39d8302edcf899db7e896525155d02fc1859be",
+      "size": 57880441
     }
   },
-  "commit": "9a36efe796a49f3abdca6308583d1eedd5780f6b"
+  "commit": "9df42c499b309f5160820316a18d37516d2261ea"
 }
