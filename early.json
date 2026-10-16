@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.143",
-  "published": "2026-10-16T20:38:54.444Z",
-  "notes": "- The world boss comes back a level stronger after each defeat, with better treasure",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.143",
+  "version": "0.1.1-early.144",
+  "published": "2026-10-16T20:50:25.779Z",
+  "notes": "- The Studio Desk opens on Overview again, not the name menu's My Account",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.144",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.143/brushfall-server-0.1.1-early.143.tar.gz",
-      "sha256": "76e3ec1c3da996a451bc6dd15ea46dec727bf7b41f63b2209f6a2e7066509bf5",
-      "size": 57882997
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.144/brushfall-server-0.1.1-early.144.tar.gz",
+      "sha256": "b6e02ab91aa51fdffdc44077287838999b57870410a4b958c16f80588111c6ab",
+      "size": 57882110
     }
   },
-  "commit": "7ef5e1d0aef9c6e8a21f8d2d42bbd566f73343e7"
+  "commit": "d01a5b29cd7463f9c2995b087a84f9428f13eb6f"
 }
