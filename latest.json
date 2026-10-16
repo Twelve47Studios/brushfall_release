@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.144",
-  "published": "2026-10-16T20:50:25.779Z",
-  "notes": "- The Studio Desk opens on Overview again, not the name menu's My Account",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.144",
+  "version": "0.1.1-early.145",
+  "published": "2026-10-16T20:55:21.846Z",
+  "notes": "- Behind-the-scenes improvements.",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.145",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.144/brushfall-server-0.1.1-early.144.tar.gz",
-      "sha256": "b6e02ab91aa51fdffdc44077287838999b57870410a4b958c16f80588111c6ab",
-      "size": 57882110
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.145/brushfall-server-0.1.1-early.145.tar.gz",
+      "sha256": "b161103fc051f695fc76d90d8753c0466f4459f99d46b4b6f0cf43cda8b7b4e2",
+      "size": 57883607
     }
   },
-  "commit": "d01a5b29cd7463f9c2995b087a84f9428f13eb6f"
+  "commit": "2e9a093e1f15548e61036bbe79c3d9f9250930d0"
 }
