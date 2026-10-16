@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.137",
-  "published": "2026-10-15T00:00:22.767Z",
-  "notes": "- The setup GIF keeps the setup code in view (no Docker layer progress) and types into the right field\n- The README banner's line says what Brushfall is\n- README stills set their scenes like a player",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.137",
+  "version": "0.1.1-early.138",
+  "published": "2026-10-16T00:44:04.070Z",
+  "notes": "- Hit paint covers at most about a fifth of a creature, so a family's painting stays visible in a fight",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.138",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.137/brushfall-server-0.1.1-early.137.tar.gz",
-      "sha256": "e5830f4c3abce48ff73bde45dea446b053cf62dee202ca685e0ccf870f2c1aa3",
-      "size": 57877161
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.138/brushfall-server-0.1.1-early.138.tar.gz",
+      "sha256": "51401ea6a4813e199a21ff2fb0d0a53a49b3c2ab88e88de37cd1e0de380acd06",
+      "size": 57876133
     }
   },
-  "commit": "e029383a87ec187c21a61cdf53176fd33e38f6d4"
+  "commit": "eca9c133ed654737adf3cb5f2b2a6990ea61cbf4"
 }
