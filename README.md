@@ -72,7 +72,7 @@ Seven playable races and six classes, two realms (**Cozy Canvas**, where a defea
 
 <img src="assets/screenshots/world-boss.png" alt="A party fighting the Puddle Monarch, a world boss inside a shield, with Paint Totems around it" width="100%">
 
-Large encounters for the whole family, built around simple, readable mechanics: break the totems, stay out of the marked areas, heal each other. Everyone who takes part gets credit.
+Large encounters for the whole family, built around simple, readable mechanics: break the totems, stay out of the marked areas, heal each other. Everyone who takes part gets credit. Each time it's beaten, the world boss comes back a level stronger with better treasure.
 
 ### Paint the world
 
@@ -106,7 +106,7 @@ The admin page for your server, at `/admin`: approve sign-ups, send invite links
 ## Safety and privacy
 
 - New players need your approval (or an invite link) before they can play. A new server can only be set up with the one-time code from your own computer.
-- On a server reachable from the internet, admins and World Helpers must use 2-step sign-in.
+- On a server reachable from the internet, admins and World Helpers must use 2-step sign-in for everything but hanging paintings.
 - Chat is filtered for everyone, and can be limited per child.
 - Reports about other players stay on your server. Bug reports go to the Brushfall team only if you forward them.
 - Daily backups, kept on your server.
