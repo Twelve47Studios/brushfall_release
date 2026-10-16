@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.141",
-  "published": "2026-10-16T19:18:16.148Z",
-  "notes": "- Behind-the-scenes improvements.",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.141",
+  "version": "0.1.1-early.142",
+  "published": "2026-10-16T19:54:16.520Z",
+  "notes": "- Hang paintings without 2-step sign-in; a Set Up 2-Step Sign-In button wherever it's needed",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.142",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.141/brushfall-server-0.1.1-early.141.tar.gz",
-      "sha256": "d45c2c815b33b9856b9156ecc2a308bed4ca2a7d43640e62a9a34d626c61877a",
-      "size": 57879921
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.142/brushfall-server-0.1.1-early.142.tar.gz",
+      "sha256": "18c0ee37c22b7709dc426ee204d841ceee950c7ce0097c5a36739092642e7aa6",
+      "size": 57880347
     }
   },
-  "commit": "0ce6bf52f91c558b687a142711688504017366e5"
+  "commit": "e3bf2a5aaed22b41d0a08c3ef77138e8d095ad51"
 }
