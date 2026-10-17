@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.149",
-  "published": "2026-10-17T16:07:11.407Z",
-  "notes": "- Drafts kept per hero on a shared device, card models drawn once and paused while painting, Nearby keeps unexp…\n- One paintable-scenery walk for Nearby, card models only for cards in sight, one draft reader\n- Full-screen Atelier on every device, 3D model cards, Nearby shows all in view, one-tap send for little painte…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.149",
+  "version": "0.1.1-early.150",
+  "published": "2026-10-17T17:36:30.217Z",
+  "notes": "- Slot picker holds are touch-only, survive a cancelled long-press, ignore a sliding finger, and still place wh…\n- Holding a slot on touch still shows the move's reach while the finger is down\n- One slot picker card and one hold for the bar and the quick slots\n- Hold or right-click an action bar slot to pick what goes there",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.150",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.149/brushfall-server-0.1.1-early.149.tar.gz",
-      "sha256": "1257598719a11cc05ff444bdc81497fdc36ea4e4461a3f68d6e395c1ea5de7b8",
-      "size": 71802360
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.150/brushfall-server-0.1.1-early.150.tar.gz",
+      "sha256": "93396b97c54be34bbdb1a2d3a51fd31cb9b27abe810422527a9e24c35d386560",
+      "size": 71804439
     }
   },
-  "commit": "cbf43722be0a1d6a3ab0756ac5fa99e891753826"
+  "commit": "0f2aea7ef3dff3490a32117d11e34dd27d00f06e"
 }
