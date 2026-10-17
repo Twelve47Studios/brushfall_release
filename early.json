@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.145",
-  "published": "2026-10-16T20:55:21.846Z",
-  "notes": "- Behind-the-scenes improvements.",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.145",
+  "version": "0.1.1-early.146",
+  "published": "2026-10-17T01:33:15.492Z",
+  "notes": "- Creation review fixes: idles recover from a failed picture, no size jump, kit on hero select\n- Hero creation that delivers the first laughs\n- Boss intros everyone shares (skippable), the colour-back beat, and the finale's gallery reveal, with raid sou…\n- Quest logs go out only when they change or to a new connection, not on every forced push\n- Family auto-party respects family-only kids, keeps away grown-ups' places and doesn't repeat a declined card\n- A party leader can bring a Sprout to their side in one press\n- See a party member's quests and lead the way to them\n- Draw the cathedral's four wings, its puzzles, the colour coming back, and the intro and finale camera flights\n- …and 16 smaller fixes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.146",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.145/brushfall-server-0.1.1-early.145.tar.gz",
-      "sha256": "b161103fc051f695fc76d90d8753c0466f4459f99d46b4b6f0cf43cda8b7b4e2",
-      "size": 57883607
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.146/brushfall-server-0.1.1-early.146.tar.gz",
+      "sha256": "8718b0395af6e97aca30601f159f614713cce74dfa8683533d684ece18369c0e",
+      "size": 69752274
     }
   },
-  "commit": "2e9a093e1f15548e61036bbe79c3d9f9250930d0"
+  "commit": "96c579a7a78665f72aa3575c7d7a8f68761ffd0d"
 }
