@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.147",
-  "published": "2026-10-17T02:11:17.525Z",
-  "notes": "- The gangplank is a never-opening nav blocker, so Guide me routes round it\n- Coast cleanups from review: shared helpers, frozen static matrices, cheaper beam\n- Coast review pass: a gangplank that boings you back, a quieter far shore, a cheaper sea\n- The Unfinished Sea past the south edge, the Accord's half-painted flagship and Turpentine Point lighthouse",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.147",
+  "version": "0.1.1-early.148",
+  "published": "2026-10-17T03:01:26.470Z",
+  "notes": "- Review fixes: the Committee's body lives with the other cathedral bosses, Atelier previews show the bosses' o…\n- Crisp finale paintings, a taller Sir Reginald, the cathedral's art guide, live review shots and docs\n- A raid boss intro that starts again keeps its camera flight, and each boss turns to greet the camera\n- The Unfinished Cathedral painted in: every puzzle prop with its own art, the Committee's four heads, stained…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.148",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.147/brushfall-server-0.1.1-early.147.tar.gz",
-      "sha256": "a2fead425f88f70b200b7e836de2260733544c9f89439bd1d570185e981ca3ef",
-      "size": 70764045
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.148/brushfall-server-0.1.1-early.148.tar.gz",
+      "sha256": "78ec676a4ab0a86a499eac47b1fda75f464abcf287d969dd26ba68a5bfb2574b",
+      "size": 71786056
     }
   },
-  "commit": "db0bbbcb99aa709d2ee293b333a8f379b74d4be3"
+  "commit": "d3c86c5b394ebd92b77b248650f5cbead944254e"
 }
