@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.150",
-  "published": "2026-10-17T17:36:30.217Z",
-  "notes": "- Slot picker holds are touch-only, survive a cancelled long-press, ignore a sliding finger, and still place wh…\n- Holding a slot on touch still shows the move's reach while the finger is down\n- One slot picker card and one hold for the bar and the quick slots\n- Hold or right-click an action bar slot to pick what goes there",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.150",
+  "version": "0.1.1-early.151",
+  "published": "2026-10-17T23:31:21.717Z",
+  "notes": "- Steadier raid sizing, whole helpers for plate timing, and \"brave it alone\" wording\n- Ask over and arrivals review fixes\n- QA bots count toward the raid's size, and the drying ring tracks the real dry time\n- Who's here card, arrival cards with Hop To and Ask over, and a goodbye line\n- The Unfinished Cathedral can be finished by one painter on their own\n- Map dots only for my party and listed heroes, who asked only while the map or Who's Online needs it\n- Every online hero on the map and minimap, and a Who's Online list in the menu\n- Paint folds away before Sprout-mode-ON, fades in a fight wherever it is, one quest-picture helper for every P…\n- …and 4 smaller fixes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.151",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.150/brushfall-server-0.1.1-early.150.tar.gz",
-      "sha256": "93396b97c54be34bbdb1a2d3a51fd31cb9b27abe810422527a9e24c35d386560",
-      "size": 71804439
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.151/brushfall-server-0.1.1-early.151.tar.gz",
+      "sha256": "9ae9b753aa1fef15e5d03f7a655e928cc66c2bdcc95d4dce87ef9ea86d766fca",
+      "size": 71861423
     }
   },
-  "commit": "0f2aea7ef3dff3490a32117d11e34dd27d00f06e"
+  "commit": "aadcbe60071e32b5b207c4e1bf711d4ec33b4ec6"
 }
