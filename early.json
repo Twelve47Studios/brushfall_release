@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.148",
-  "published": "2026-10-17T03:01:26.470Z",
-  "notes": "- Review fixes: the Committee's body lives with the other cathedral bosses, Atelier previews show the bosses' o…\n- Crisp finale paintings, a taller Sir Reginald, the cathedral's art guide, live review shots and docs\n- A raid boss intro that starts again keeps its camera flight, and each boss turns to greet the camera\n- The Unfinished Cathedral painted in: every puzzle prop with its own art, the Committee's four heads, stained…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.148",
+  "version": "0.1.1-early.149",
+  "published": "2026-10-17T16:07:11.407Z",
+  "notes": "- Drafts kept per hero on a shared device, card models drawn once and paused while painting, Nearby keeps unexp…\n- One paintable-scenery walk for Nearby, card models only for cards in sight, one draft reader\n- Full-screen Atelier on every device, 3D model cards, Nearby shows all in view, one-tap send for little painte…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.149",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.148/brushfall-server-0.1.1-early.148.tar.gz",
-      "sha256": "78ec676a4ab0a86a499eac47b1fda75f464abcf287d969dd26ba68a5bfb2574b",
-      "size": 71786056
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.149/brushfall-server-0.1.1-early.149.tar.gz",
+      "sha256": "1257598719a11cc05ff444bdc81497fdc36ea4e4461a3f68d6e395c1ea5de7b8",
+      "size": 71802360
     }
   },
-  "commit": "d3c86c5b394ebd92b77b248650f5cbead944254e"
+  "commit": "cbf43722be0a1d6a3ab0756ac5fa99e891753826"
 }
