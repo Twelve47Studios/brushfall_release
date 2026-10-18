@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.156",
-  "published": "2026-10-18T02:39:05.965Z",
-  "notes": "- Hide-and-seek bushes and trees are the zone's real foliage (offered only where plenty grow), Party panel foll…\n- Hide-and-seek gives nothing away (no auras, party flag or speech bubble on a disguise), no hopping mid-round,…\n- Hide-and-seek tidy-up: one area rule and one move speed for both sides, only the prop on the wire while hidin…\n- Hide-and-seek start card opens at once, results wait for the confetti, phone layout; docs\n- Hide-and-seek for the party, with a tune that warms up as you get close",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.156",
+  "version": "0.1.1-early.157",
+  "published": "2026-10-18T04:21:34.098Z",
+  "notes": "- The camera keeps its distance in the Unfinished Cathedral; walls and columns step aside instead\n- Cathedral bosses can't be shot from the next room; with nobody they can reach they give up and heal\n- The touch joystick always lets go, so it never sticks with the hero walking on",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.157",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.156/brushfall-server-0.1.1-early.156.tar.gz",
-      "sha256": "cb1adc3cb37db5e25dcf3c95564e6d138a09be9570af819f54f600901969d8b8",
-      "size": 73635910
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.157/brushfall-server-0.1.1-early.157.tar.gz",
+      "sha256": "6c6252a0be819fd18cad53e42390346ba61b75463f3c22fcf071a2bd0ffd3231",
+      "size": 73643254
     }
   },
-  "commit": "57618e6b47b915efae2c2b5b0b617cca44cbe365"
+  "commit": "34100e222734e47a625a1a1aed386c6c1130aed9"
 }
