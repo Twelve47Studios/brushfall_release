@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.160",
-  "published": "2026-10-18T16:02:58.026Z",
-  "notes": "- IPhone screenshots finish again (the painted pointer was copied into every element: a 20 MB page copy); faile…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.160",
+  "version": "0.1.1-early.161",
+  "published": "2026-10-18T16:48:27.191Z",
+  "notes": "- An \"Upgrade equipped!\" card when auto-equip puts gear on, with Take a look and Put back",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.161",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.160/brushfall-server-0.1.1-early.160.tar.gz",
-      "sha256": "721642c1d3726acb72cb996d0f5f7dbd81d7ebf8ec28568fbad1f9752c7a9385",
-      "size": 73692250
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.161/brushfall-server-0.1.1-early.161.tar.gz",
+      "sha256": "974b56daf54d4fd90cd502cdd4f32ddb38a0d84d4adf8f0f3a8e4e5a850adead",
+      "size": 73704312
     }
   },
-  "commit": "f3f81e1f09f1dc3a8610e092f6ebd509201fb79f"
+  "commit": "6621c6cb91562f15549d6f271e986c77327f1a34"
 }
