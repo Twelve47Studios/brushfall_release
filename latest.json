@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.159",
-  "published": "2026-10-18T15:30:09.255Z",
-  "notes": "- Vanishing Point's shields have their own words, so its boss frame no longer throws every frame",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.159",
+  "version": "0.1.1-early.160",
+  "published": "2026-10-18T16:02:58.026Z",
+  "notes": "- IPhone screenshots finish again (the painted pointer was copied into every element: a 20 MB page copy); faile…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.160",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.159/brushfall-server-0.1.1-early.159.tar.gz",
-      "sha256": "df3b81366f9f374c374038595b907227aa288f35353acea9befe57f27b311493",
-      "size": 73687355
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.160/brushfall-server-0.1.1-early.160.tar.gz",
+      "sha256": "721642c1d3726acb72cb996d0f5f7dbd81d7ebf8ec28568fbad1f9752c7a9385",
+      "size": 73692250
     }
   },
-  "commit": "64342770550ce131d8a6ee2d99099cf9e4377842"
+  "commit": "f3f81e1f09f1dc3a8610e092f6ebd509201fb79f"
 }
