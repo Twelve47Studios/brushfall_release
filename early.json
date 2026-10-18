@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.154",
-  "published": "2026-10-18T01:08:31.476Z",
-  "notes": "- Smooth region weather and landmark hand-off; cheaper Medium look\n- Region look review fixes (lamp glow hand-over, look blends over the ground's border, palette sky by day, weat…\n- Each region has its own medium, sky, weather and landmarks\n- Deterministic region weather and wind from the realm clock\n- One region lookup with border blend weights",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.154",
+  "version": "0.1.1-early.155",
+  "published": "2026-10-18T01:29:42.827Z",
+  "notes": "- The Rainbow Door's balcony prism spills its light down the stair, so it can be found from the hall\n- Brushfall speaks American English, and Atelier cards show words, not art ids",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.155",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.154/brushfall-server-0.1.1-early.154.tar.gz",
-      "sha256": "4b246dbb1bb23199df41a2962aff6e86bb8f69f280292f5f3418be915b4167ee",
-      "size": 73600913
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.155/brushfall-server-0.1.1-early.155.tar.gz",
+      "sha256": "de2e08316ef6a572805ab239dea8f170bc219355d1611b5e1f0e2df306dc0d32",
+      "size": 73586875
     }
   },
-  "commit": "1d8e777e3baed87edd5f8f179d8cf91e1c0d12b0"
+  "commit": "3cf955d9a3a515c00442d8d19b23ded7adf00415"
 }
