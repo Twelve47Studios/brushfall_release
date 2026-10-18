@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.153",
-  "published": "2026-10-18T00:49:40.348Z",
-  "notes": "- Update-check.ts loads in plain Node again (no TypeScript parameter property); a test loads it the way the rel…\n- Region feel review: live Calm motion, one step tracker for prints and sounds, tidy border music\n- A new token asks again at once, plain wording for where the token lives, personal tokens only, the CLI uses t…\n- Per-region blend widths and a reusable out array for regionWeights\n- Paint puddles to splash through, with footprints that mix colours\n- A refused forced check (Check now, a new token) is shown instead of hidden by the cache; test worlds never re…\n- Tests never reach the internet, checks wait out GitHub's reset, and an optional GitHub token gives a server i…\n- Region feel review: border music hysteresis, my own trail first, stable region flag bits, lighter hot paths\n- …and 4 smaller fixes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.153",
+  "version": "0.1.1-early.154",
+  "published": "2026-10-18T01:08:31.476Z",
+  "notes": "- Smooth region weather and landmark hand-off; cheaper Medium look\n- Region look review fixes (lamp glow hand-over, look blends over the ground's border, palette sky by day, weat…\n- Each region has its own medium, sky, weather and landmarks\n- Deterministic region weather and wind from the realm clock\n- One region lookup with border blend weights",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.154",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.153/brushfall-server-0.1.1-early.153.tar.gz",
-      "sha256": "85db5b7c1456e0c7ec3e509b3b52e07cc2b1c879f56ec18038899c8b12bd3343",
-      "size": 73528662
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.154/brushfall-server-0.1.1-early.154.tar.gz",
+      "sha256": "4b246dbb1bb23199df41a2962aff6e86bb8f69f280292f5f3418be915b4167ee",
+      "size": 73600913
     }
   },
-  "commit": "bd16199cc1a4261a0b23e4389e7dc0005bdecb94"
+  "commit": "1d8e777e3baed87edd5f8f179d8cf91e1c0d12b0"
 }
