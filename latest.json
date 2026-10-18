@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.155",
-  "published": "2026-10-18T01:29:42.827Z",
-  "notes": "- The Rainbow Door's balcony prism spills its light down the stair, so it can be found from the hall\n- Brushfall speaks American English, and Atelier cards show words, not art ids",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.155",
+  "version": "0.1.1-early.156",
+  "published": "2026-10-18T02:39:05.965Z",
+  "notes": "- Hide-and-seek bushes and trees are the zone's real foliage (offered only where plenty grow), Party panel foll…\n- Hide-and-seek gives nothing away (no auras, party flag or speech bubble on a disguise), no hopping mid-round,…\n- Hide-and-seek tidy-up: one area rule and one move speed for both sides, only the prop on the wire while hidin…\n- Hide-and-seek start card opens at once, results wait for the confetti, phone layout; docs\n- Hide-and-seek for the party, with a tune that warms up as you get close",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.156",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.155/brushfall-server-0.1.1-early.155.tar.gz",
-      "sha256": "de2e08316ef6a572805ab239dea8f170bc219355d1611b5e1f0e2df306dc0d32",
-      "size": 73586875
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.156/brushfall-server-0.1.1-early.156.tar.gz",
+      "sha256": "cb1adc3cb37db5e25dcf3c95564e6d138a09be9570af819f54f600901969d8b8",
+      "size": 73635910
     }
   },
-  "commit": "3cf955d9a3a515c00442d8d19b23ded7adf00415"
+  "commit": "57618e6b47b915efae2c2b5b0b617cca44cbe365"
 }
