@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.161",
-  "published": "2026-10-18T16:48:27.191Z",
-  "notes": "- An \"Upgrade equipped!\" card when auto-equip puts gear on, with Take a look and Put back",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.161",
+  "version": "0.1.1-early.162",
+  "published": "2026-10-18T17:14:38.616Z",
+  "notes": "- Every folk leaves its own footprints, in step with its walk, and lands with a splat",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.162",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.161/brushfall-server-0.1.1-early.161.tar.gz",
-      "sha256": "974b56daf54d4fd90cd502cdd4f32ddb38a0d84d4adf8f0f3a8e4e5a850adead",
-      "size": 73704312
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.162/brushfall-server-0.1.1-early.162.tar.gz",
+      "sha256": "98a45d12f4085786fb43e0a5012d48042d8dd6d5494da40a6a5c5ec4d43873a6",
+      "size": 73720570
     }
   },
-  "commit": "6621c6cb91562f15549d6f271e986c77327f1a34"
+  "commit": "443d0bb8bc867c7bc021ec102395c29a8d88de87"
 }
