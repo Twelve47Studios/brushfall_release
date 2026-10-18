@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.157",
-  "published": "2026-10-18T04:21:34.098Z",
-  "notes": "- The camera keeps its distance in the Unfinished Cathedral; walls and columns step aside instead\n- Cathedral bosses can't be shot from the next room; with nobody they can reach they give up and heal\n- The touch joystick always lets go, so it never sticks with the hero walking on",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.157",
+  "version": "0.1.1-early.158",
+  "published": "2026-10-18T15:09:58.922Z",
+  "notes": "- Server log keeps the lines before a crash, survives a dropped download, and the launcher never dies over a lo…\n- One record path for server log entries; tidy the Server Log view\n- Server log reads share one range reader; report window reads only the files it needs\n- Error beacon keeps sending a stuck error's count and new errors' budget\n- A server log hosts can find: DATA_DIR/logs, crash traces, Studio Desk view, brushfall logs\n- Simplify the error beacon and reuse perf's frame clock for long frames\n- Browser errors reach the host's server on their own, and reports carry more clues",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.158",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.157/brushfall-server-0.1.1-early.157.tar.gz",
-      "sha256": "6c6252a0be819fd18cad53e42390346ba61b75463f3c22fcf071a2bd0ffd3231",
-      "size": 73643254
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.158/brushfall-server-0.1.1-early.158.tar.gz",
+      "sha256": "609f51f0a314ed85ea17f86e1f044b054cb127e8f15d6d50cf081f955a643ec5",
+      "size": 73657608
     }
   },
-  "commit": "34100e222734e47a625a1a1aed386c6c1130aed9"
+  "commit": "d27db1eed960e6dab794c3985654a4de17611ee6"
 }
