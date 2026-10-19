@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.162",
-  "published": "2026-10-18T17:14:38.616Z",
-  "notes": "- Every folk leaves its own footprints, in step with its walk, and lands with a splat",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.162",
+  "version": "0.1.1-early.163",
+  "published": "2026-10-19T00:00:56.169Z",
+  "notes": "- Leaving right after arriving no longer trips an error from the arrival timers\n- A Masterpiece for every slot at level 20, and seven pieces with a gear trick",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.163",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.162/brushfall-server-0.1.1-early.162.tar.gz",
-      "sha256": "98a45d12f4085786fb43e0a5012d48042d8dd6d5494da40a6a5c5ec4d43873a6",
-      "size": 73720570
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.163/brushfall-server-0.1.1-early.163.tar.gz",
+      "sha256": "788911051466e8c8edf65ab06d40696dcf1ba5c876c0a057c7e8fd59a7f30990",
+      "size": 74288337
     }
   },
-  "commit": "443d0bb8bc867c7bc021ec102395c29a8d88de87"
+  "commit": "83d9bbe0b96cf4127367d63cbef38562c53f2183"
 }
