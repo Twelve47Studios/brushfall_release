@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.164",
-  "published": "2026-10-19T00:08:29.059Z",
-  "notes": "- Bent props free only their own positions; fence rails ride their posts; gallery inner rails reach the doorway\n- Everything stands on the ground, and nothing flickers where things meet",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.164",
+  "version": "0.1.1-early.165",
+  "published": "2026-10-19T00:25:13.359Z",
+  "notes": "- The Someday Studio's own workshop rooms, a little-jobs heap and its front door",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.165",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.164/brushfall-server-0.1.1-early.164.tar.gz",
-      "sha256": "a47e672d737eaf4ea4cd30fd5ddb46f7ea07c22705dcb7b1d8a6cdb5f424bb70",
-      "size": 74310654
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.165/brushfall-server-0.1.1-early.165.tar.gz",
+      "sha256": "c54dbdcf5e575b0cd470d07b48bbc16b106cbeb66d558a18fc160368fcc8a1c5",
+      "size": 74450517
     }
   },
-  "commit": "4ea05c8dd03af106e00b306984085f41ad99fc6f"
+  "commit": "4248d8f003c204f7bf8b27638ce28626e52ed2d9"
 }
