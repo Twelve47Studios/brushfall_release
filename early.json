@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.165",
-  "published": "2026-10-19T00:25:13.359Z",
-  "notes": "- The Someday Studio's own workshop rooms, a little-jobs heap and its front door",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.165",
+  "version": "0.1.1-early.166",
+  "published": "2026-10-19T02:46:29.841Z",
+  "notes": "- The minimap's steps label sits centered on its backing and stays inside the minimap",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.166",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.165/brushfall-server-0.1.1-early.165.tar.gz",
-      "sha256": "c54dbdcf5e575b0cd470d07b48bbc16b106cbeb66d558a18fc160368fcc8a1c5",
-      "size": 74450517
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.166/brushfall-server-0.1.1-early.166.tar.gz",
+      "sha256": "a5a8a07fa3a832f12b6349fafc19c867747de1ddc94868b290d1921a80c04896",
+      "size": 74452480
     }
   },
-  "commit": "4248d8f003c204f7bf8b27638ce28626e52ed2d9"
+  "commit": "e31b0dc7297b4b39c39f45199b91b147f0f9b153"
 }
