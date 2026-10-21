@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.167",
-  "published": "2026-10-19T02:52:32.460Z",
-  "notes": "- Bosses flinch at most every 0.7 s and in proportion to their size\n- The open chat keeps one size on big iPhones instead of flipping narrow and wide",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.167",
+  "version": "0.1.1-early.168",
+  "published": "2026-10-21T17:41:47.908Z",
+  "notes": "- Celebration stings land on the beat, in the song's key; the Blank Expanse's music grows as the road is painted\n- Hum-to-song transcriber for songs.ts melody bars\n- Time-to-bar table for offline zone renders\n- Offline sound-effect render and analysis sheet\n- Audio sandbox page for auditioning sounds and songs",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.168",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.167/brushfall-server-0.1.1-early.167.tar.gz",
-      "sha256": "f5abc45210d89426bc46bbc400248a466997d0d647f4c3ece8f5c4b1ec6b4b58",
-      "size": 74452777
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.168/brushfall-server-0.1.1-early.168.tar.gz",
+      "sha256": "b4359382be4b3c042068cad8d41dbbf434850f9858f550aa24d1a14698dba9d3",
+      "size": 74457410
     }
   },
-  "commit": "e134e0ff6e65d3b2b80b4a3561f8579595c86c6c"
+  "commit": "491805ab98875f3c6c1186912e2630820470d2ef"
 }
