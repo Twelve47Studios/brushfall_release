@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.168",
-  "published": "2026-10-21T17:41:47.908Z",
-  "notes": "- Celebration stings land on the beat, in the song's key; the Blank Expanse's music grows as the road is painted\n- Hum-to-song transcriber for songs.ts melody bars\n- Time-to-bar table for offline zone renders\n- Offline sound-effect render and analysis sheet\n- Audio sandbox page for auditioning sounds and songs",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.168",
+  "version": "0.1.1-early.169",
+  "published": "2026-10-21T18:03:06.631Z",
+  "notes": "- The Blank Expanse's papery wind is a soft breath instead of a hiss",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.169",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.168/brushfall-server-0.1.1-early.168.tar.gz",
-      "sha256": "b4359382be4b3c042068cad8d41dbbf434850f9858f550aa24d1a14698dba9d3",
-      "size": 74457410
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.169/brushfall-server-0.1.1-early.169.tar.gz",
+      "sha256": "d9f310947b242dc17993abecb078613bce0d72c43881d81d783bbda2df919e1a",
+      "size": 74457871
     }
   },
-  "commit": "491805ab98875f3c6c1186912e2630820470d2ef"
+  "commit": "effeb07f3deb6df2a38a7610f9c771e9e3ffef7e"
 }
