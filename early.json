@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.171",
-  "published": "2026-10-22T01:23:22.947Z",
-  "notes": "- The Ford's signpost stands on its road again, now that the road north is dry\n- Review fixes: shallows widen where the drawn strip does and stay south of the river, quiet pools are forbidde…\n- Simplify pass on the water (one widths test, one quiet-pool material)\n- Water makes sense: the Glazebrook leaves the river east of Mixing Bridge and flows to the sea",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.171",
+  "version": "0.1.1-early.172",
+  "published": "2026-10-22T02:44:20.776Z",
+  "notes": "- The Someday Studio's roof peaks the right way up, and the Crags' crows hop instead of blinking sideways",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.172",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.171/brushfall-server-0.1.1-early.171.tar.gz",
-      "sha256": "56d39220f7c98e01402d5bdba3765cca8ede381c819e00f8f2202ad19c35261e",
-      "size": 74790050
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.172/brushfall-server-0.1.1-early.172.tar.gz",
+      "sha256": "4cc451c21adca1e42107a8bb7b3b4f4b09633627d5c1bfa7c3756286ea9395aa",
+      "size": 74795449
     }
   },
-  "commit": "787597da16fba96706a8c5c547916859145c0fce"
+  "commit": "c92cfda3e490370088791bef6b55e7d2d9221b2f"
 }
