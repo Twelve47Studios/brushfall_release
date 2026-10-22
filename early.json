@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.169",
-  "published": "2026-10-21T18:03:06.631Z",
-  "notes": "- The Blank Expanse's papery wind is a soft breath instead of a hiss",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.169",
+  "version": "0.1.1-early.170",
+  "published": "2026-10-22T00:02:31.726Z",
+  "notes": "- Review fixes: width points checked in order, tolerant crossing-middle check, shallows box from its real widen…\n- Simplify pass on the polish (shallows test boxed, gateposts on crossingEnds)\n- The border wobble is tabulated once, so the terrain's roughness samples don't recompute it\n- Nothing grows in the Ford's shallows, no herb on the paint cart's puddle, the Ford's signpost on the bank\n- Compose the world's props when a realm boots, not inside the first paint-buff or hide-and-seek tick\n- Zone borders swing visibly, each its own way, and the Mixing Water runs in pools and riffles\n- No cliff shadow across the pass floors; roads meet the bridge decks with no gap\n- Landforms reuse shared deckTop/deckAt, cordPoint and span; one merge helper and layer material; drape remembe…\n- …and 13 smaller fixes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.170",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.169/brushfall-server-0.1.1-early.169.tar.gz",
-      "sha256": "d9f310947b242dc17993abecb078613bce0d72c43881d81d783bbda2df919e1a",
-      "size": 74457871
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.170/brushfall-server-0.1.1-early.170.tar.gz",
+      "sha256": "f12578c1f4d24e48d5359c11226d5acfcef00b966276a33e9aec1b343d8c78d2",
+      "size": 74790025
     }
   },
-  "commit": "effeb07f3deb6df2a38a7610f9c771e9e3ffef7e"
+  "commit": "747cb89322b5ed0d63ae001bd6d4a82a4f137b4f"
 }
