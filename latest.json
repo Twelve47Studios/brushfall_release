@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.170",
-  "published": "2026-10-22T00:02:31.726Z",
-  "notes": "- Review fixes: width points checked in order, tolerant crossing-middle check, shallows box from its real widen…\n- Simplify pass on the polish (shallows test boxed, gateposts on crossingEnds)\n- The border wobble is tabulated once, so the terrain's roughness samples don't recompute it\n- Nothing grows in the Ford's shallows, no herb on the paint cart's puddle, the Ford's signpost on the bank\n- Compose the world's props when a realm boots, not inside the first paint-buff or hide-and-seek tick\n- Zone borders swing visibly, each its own way, and the Mixing Water runs in pools and riffles\n- No cliff shadow across the pass floors; roads meet the bridge decks with no gap\n- Landforms reuse shared deckTop/deckAt, cordPoint and span; one merge helper and layer material; drape remembe…\n- …and 13 smaller fixes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.170",
+  "version": "0.1.1-early.171",
+  "published": "2026-10-22T01:23:22.947Z",
+  "notes": "- The Ford's signpost stands on its road again, now that the road north is dry\n- Review fixes: shallows widen where the drawn strip does and stay south of the river, quiet pools are forbidde…\n- Simplify pass on the water (one widths test, one quiet-pool material)\n- Water makes sense: the Glazebrook leaves the river east of Mixing Bridge and flows to the sea",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.171",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.170/brushfall-server-0.1.1-early.170.tar.gz",
-      "sha256": "f12578c1f4d24e48d5359c11226d5acfcef00b966276a33e9aec1b343d8c78d2",
-      "size": 74790025
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.171/brushfall-server-0.1.1-early.171.tar.gz",
+      "sha256": "56d39220f7c98e01402d5bdba3765cca8ede381c819e00f8f2202ad19c35261e",
+      "size": 74790050
     }
   },
-  "commit": "747cb89322b5ed0d63ae001bd6d4a82a4f137b4f"
+  "commit": "787597da16fba96706a8c5c547916859145c0fce"
 }
