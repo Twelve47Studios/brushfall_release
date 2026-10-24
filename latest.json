@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.182",
-  "published": "2026-10-24T18:15:34.274Z",
-  "notes": "- The Leaky Gallery's puddles and sludge are painted, and every puddle sits by a dripping bucket\n- The fallen's name tags step aside for the Take prompt\n- /boss acts on the boss, not a nearer elite helper (no more \"No such mechanic.\" in a Docent fight)\n- The Gallery Guard and the Docent wear friendly faces, not knight visors\n- Gallery cleanups — cached jobs and blockers, one event hub, circle telegraphs name their boss\n- Walk round the tent pole, and step out beside Mother Gauze\n- Camp rooms tidy up after a live look\n- The Leaky Gallery's windows, buckets, ropes, signs, drips and placards make sounds\n- …and 3 smaller fixes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.182",
+  "version": "0.1.1-early.183",
+  "published": "2026-10-24T19:14:42.397Z",
+  "notes": "- The lookouts show the real world below, trees, roads, props and the sea",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.183",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.182/brushfall-server-0.1.1-early.182.tar.gz",
-      "sha256": "49e7ffc9d3f34007a059e9c5ef44c6be7303939d6e240a77cb90cacbc79458b9",
-      "size": 77138520
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.183/brushfall-server-0.1.1-early.183.tar.gz",
+      "sha256": "d33702f5ff986c77a5990873f44859d516b79b0c177872b596e32e4b5b4a3c6d",
+      "size": 77146682
     }
   },
-  "commit": "51039b5b6a03785de1a7b1e85c106c91cb63860b"
+  "commit": "5af970ac30a3fb50cf214ff43ff4a98a700e40fb"
 }
