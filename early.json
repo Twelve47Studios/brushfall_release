@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.175",
-  "published": "2026-10-24T07:04:00.031Z",
-  "notes": "- The pace bot walks the route Guide me takes, round solid houses and stalls, and stops at the first real snag\n- Routes round the solids never stall or crash a tick\n- Every structure is solid: one shared list of footprints (lighthouse, houses, wells, lanterns, trees, rocks)\n- Store events for bumping into a solid structure and knocking on a painted door",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.175",
+  "version": "0.1.1-early.176",
+  "published": "2026-10-24T07:10:11.266Z",
+  "notes": "- A clean lookout shot (no HUD), the hero framed over the shoulder, hills behind the tower, the mirror facing y…\n- Go inside the lighthouse, a round Lamp Room with a stair up to the lookout\n- The Lamp Room's walls, floor, frame, book stacks, spiral stair, stair icon and lighthouse sticker",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.176",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.175/brushfall-server-0.1.1-early.175.tar.gz",
-      "sha256": "686f8687b72d3991c07c0b2a19380d1dbe378d0b56c2bf1a24bed7758a0375d0",
-      "size": 76728946
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.176/brushfall-server-0.1.1-early.176.tar.gz",
+      "sha256": "0c93abbcf7be0a7e646529a421e792d2201ce50ae9895a573fd4d7bdf20cd748",
+      "size": 76793733
     }
   },
-  "commit": "ad7827d53e9d9dea2e9d3dcca231f64c7ace9b32"
+  "commit": "0a12669d5ad964f017aa68443297831e4ce69208"
 }
