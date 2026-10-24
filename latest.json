@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.179",
-  "published": "2026-10-24T09:03:53.644Z",
-  "notes": "- A tree canopy between the camera and your hero goes see-through\n- A tall rock's hop is judged where you step onto it\n- The Knock prompt steps aside while the doodle peeks over a painted door\n- A rock's solid rests where it is drawn, and its flush uphill side needs no hop\n- Moves sent at 0.01 stay on the same side of a tall plate's or top's edge",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.179",
+  "version": "0.1.1-early.180",
+  "published": "2026-10-24T17:07:55.288Z",
+  "notes": "- Little doors open — the toll booth's hatch and the cozy oven's door",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.180",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.179/brushfall-server-0.1.1-early.179.tar.gz",
-      "sha256": "0bf3ed13d92cb03103c753996fd2ab8f71c1fa79081734bf8fabc8171a3fcb91",
-      "size": 76852088
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.180/brushfall-server-0.1.1-early.180.tar.gz",
+      "sha256": "0073cb0b97d9e207a7e602ea47c4ae951f3292db0300002513bee83b017d5a9a",
+      "size": 76872041
     }
   },
-  "commit": "38ac7d43c6775351e13e83284c4c0f9be8fd48f6"
+  "commit": "341af91a5b81a6a374a67709f103188541b23c87"
 }
