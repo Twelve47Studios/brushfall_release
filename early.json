@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.181",
-  "published": "2026-10-24T17:41:03.840Z",
-  "notes": "- The Spire's lookout builds on first climb, its hero sits on the point, windows hide with their wall\n- Go inside the Crayon Spire, a round waxy room with a stair of shavings up to the tip over Primerton",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.181",
+  "version": "0.1.1-early.182",
+  "published": "2026-10-24T18:15:34.274Z",
+  "notes": "- The Leaky Gallery's puddles and sludge are painted, and every puddle sits by a dripping bucket\n- The fallen's name tags step aside for the Take prompt\n- /boss acts on the boss, not a nearer elite helper (no more \"No such mechanic.\" in a Docent fight)\n- The Gallery Guard and the Docent wear friendly faces, not knight visors\n- Gallery cleanups — cached jobs and blockers, one event hub, circle telegraphs name their boss\n- Walk round the tent pole, and step out beside Mother Gauze\n- Camp rooms tidy up after a live look\n- The Leaky Gallery's windows, buckets, ropes, signs, drips and placards make sounds\n- …and 3 smaller fixes",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.182",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.181/brushfall-server-0.1.1-early.181.tar.gz",
-      "sha256": "c3de741f9d3bf92e6dc4037bad2d52d31c5a8a6c567760679b5df778b29a9ea5",
-      "size": 76928929
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.182/brushfall-server-0.1.1-early.182.tar.gz",
+      "sha256": "49e7ffc9d3f34007a059e9c5ef44c6be7303939d6e240a77cb90cacbc79458b9",
+      "size": 77138520
     }
   },
-  "commit": "0f342910188d25e9e63f51ca54361c1ba3f6aefe"
+  "commit": "51039b5b6a03785de1a7b1e85c106c91cb63860b"
 }
