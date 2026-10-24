@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.173",
-  "published": "2026-10-22T09:09:16.576Z",
-  "notes": "- The stroke you're laying is your surf, not paint you slip on: walking behind a long-reach brush no longer cou…\n- The Slick Brush is a proper paintbrush, held out where you can see it\n- A reconnecting Sprout's screen hears again where its helper is walking\n- Paint surfing can no longer stop the realm; an empty pot stays empty, reconnects and hops paint cleanly\n- The Slick Brush in hand, paint off its bristles, flow you can see, ollie pops and landings, skim spray, the u…\n- Surfing sounds like riding a wave: brush swish, skim spray, ollies, landings, reveal sparkles on the beat, an…\n- Surf review fixes: step off a surf unclamped, ollies keep their paint, a walk with the brush down isn't a sli…\n- Ollies: jump while surfing pops you up with your speed, charge crouched without stalling, steer a little in t…\n- …and 22 smaller fixes",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.173",
+  "version": "0.1.1-early.174",
+  "published": "2026-10-24T05:29:18.628Z",
+  "notes": "- One hero-color formula, review fixes\n- The hero-color colorize runs without allocations and keeps each color once (a face band in about 2 ms)\n- A hero's chosen color shows on every folk, pale and dark ones too\n- Surfing drops in at once, goes about twice as fast as walking and lands with a pop",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.174",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.173/brushfall-server-0.1.1-early.173.tar.gz",
-      "sha256": "1278777cea06805ad6c5de797881ca5b99f7663e7ba355c023a2a1b3e8d428ea",
-      "size": 76667999
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.174/brushfall-server-0.1.1-early.174.tar.gz",
+      "sha256": "2f1f5ffd980b5f11a44884bb0d6683efb37268a34591a8143a285fb58281c1b3",
+      "size": 76671264
     }
   },
-  "commit": "c1f4cd4093aebe77ca747b8db42b55ae5ef6f7cc"
+  "commit": "83f6029ce36464286e7eb79df85cb7ebd7e0605b"
 }
