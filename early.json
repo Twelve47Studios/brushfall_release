@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.174",
-  "published": "2026-10-24T05:29:18.628Z",
-  "notes": "- One hero-color formula, review fixes\n- The hero-color colorize runs without allocations and keeps each color once (a face band in about 2 ms)\n- A hero's chosen color shows on every folk, pale and dark ones too\n- Surfing drops in at once, goes about twice as fast as walking and lands with a pop",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.174",
+  "version": "0.1.1-early.175",
+  "published": "2026-10-24T07:04:00.031Z",
+  "notes": "- The pace bot walks the route Guide me takes, round solid houses and stalls, and stops at the first real snag\n- Routes round the solids never stall or crash a tick\n- Every structure is solid: one shared list of footprints (lighthouse, houses, wells, lanterns, trees, rocks)\n- Store events for bumping into a solid structure and knocking on a painted door",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.175",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.174/brushfall-server-0.1.1-early.174.tar.gz",
-      "sha256": "2f1f5ffd980b5f11a44884bb0d6683efb37268a34591a8143a285fb58281c1b3",
-      "size": 76671264
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.175/brushfall-server-0.1.1-early.175.tar.gz",
+      "sha256": "686f8687b72d3991c07c0b2a19380d1dbe378d0b56c2bf1a24bed7758a0375d0",
+      "size": 76728946
     }
   },
-  "commit": "83f6029ce36464286e7eb79df85cb7ebd7e0605b"
+  "commit": "ad7827d53e9d9dea2e9d3dcca231f64c7ace9b32"
 }
