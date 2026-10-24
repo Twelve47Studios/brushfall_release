@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.177",
-  "published": "2026-10-24T07:29:36.155Z",
-  "notes": "- Review fixes for bumps: a bonk names what it hit, a throttled push still bumps later, one bump per impact, kn…\n- Glide round solid structures, bump and knock on them, front-door-only walk-in\n- Bumping into a solid sounds like what it's made of; painted doors, tents, wells and the toll goat answer a kn…",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.177",
+  "version": "0.1.1-early.178",
+  "published": "2026-10-24T08:12:04.581Z",
+  "notes": "- Bump reactions read at the default camera; doodles peek over painted doors; rocks stand a little lower\n- Bumping into structures is charming, and the camera stays out of buildings",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.178",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.177/brushfall-server-0.1.1-early.177.tar.gz",
-      "sha256": "a4a93f862342728930d438b06de61f2c5f1a5533db5195c58a8e452fb1f700d7",
-      "size": 76811023
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.178/brushfall-server-0.1.1-early.178.tar.gz",
+      "sha256": "3440ebabe367b5318b69568428c0f8fd8c12321dce276e3cb104f8a26f84679e",
+      "size": 76847338
     }
   },
-  "commit": "e179823be9242d10d70935f09f654372c1927fab"
+  "commit": "1d71ee51f8a3737665eca749af02f3b512c3844c"
 }
