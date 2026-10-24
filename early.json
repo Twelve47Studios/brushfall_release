@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.176",
-  "published": "2026-10-24T07:10:11.266Z",
-  "notes": "- A clean lookout shot (no HUD), the hero framed over the shoulder, hills behind the tower, the mirror facing y…\n- Go inside the lighthouse, a round Lamp Room with a stair up to the lookout\n- The Lamp Room's walls, floor, frame, book stacks, spiral stair, stair icon and lighthouse sticker",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.176",
+  "version": "0.1.1-early.177",
+  "published": "2026-10-24T07:29:36.155Z",
+  "notes": "- Review fixes for bumps: a bonk names what it hit, a throttled push still bumps later, one bump per impact, kn…\n- Glide round solid structures, bump and knock on them, front-door-only walk-in\n- Bumping into a solid sounds like what it's made of; painted doors, tents, wells and the toll goat answer a kn…",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.177",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.176/brushfall-server-0.1.1-early.176.tar.gz",
-      "sha256": "0c93abbcf7be0a7e646529a421e792d2201ce50ae9895a573fd4d7bdf20cd748",
-      "size": 76793733
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.177/brushfall-server-0.1.1-early.177.tar.gz",
+      "sha256": "a4a93f862342728930d438b06de61f2c5f1a5533db5195c58a8e452fb1f700d7",
+      "size": 76811023
     }
   },
-  "commit": "0a12669d5ad964f017aa68443297831e4ce69208"
+  "commit": "e179823be9242d10d70935f09f654372c1927fab"
 }
