@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.178",
-  "published": "2026-10-24T08:12:04.581Z",
-  "notes": "- Bump reactions read at the default camera; doodles peek over painted doors; rocks stand a little lower\n- Bumping into structures is charming, and the camera stays out of buildings",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.178",
+  "version": "0.1.1-early.179",
+  "published": "2026-10-24T09:03:53.644Z",
+  "notes": "- A tree canopy between the camera and your hero goes see-through\n- A tall rock's hop is judged where you step onto it\n- The Knock prompt steps aside while the doodle peeks over a painted door\n- A rock's solid rests where it is drawn, and its flush uphill side needs no hop\n- Moves sent at 0.01 stay on the same side of a tall plate's or top's edge",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.179",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.178/brushfall-server-0.1.1-early.178.tar.gz",
-      "sha256": "3440ebabe367b5318b69568428c0f8fd8c12321dce276e3cb104f8a26f84679e",
-      "size": 76847338
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.179/brushfall-server-0.1.1-early.179.tar.gz",
+      "sha256": "0bf3ed13d92cb03103c753996fd2ab8f71c1fa79081734bf8fabc8171a3fcb91",
+      "size": 76852088
     }
   },
-  "commit": "1d71ee51f8a3737665eca749af02f3b512c3844c"
+  "commit": "38ac7d43c6775351e13e83284c4c0f9be8fd48f6"
 }
