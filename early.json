@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.183",
-  "published": "2026-10-24T19:14:42.397Z",
-  "notes": "- The lookouts show the real world below, trees, roads, props and the sea",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.183",
+  "version": "0.1.1-early.184",
+  "published": "2026-10-25T04:44:31.642Z",
+  "notes": "- The action bar shows clear controller button pictures, with Hold LT / RT above each held set\n- The login screen's moving backdrop holds still while another window is playing",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.184",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.183/brushfall-server-0.1.1-early.183.tar.gz",
-      "sha256": "d33702f5ff986c77a5990873f44859d516b79b0c177872b596e32e4b5b4a3c6d",
-      "size": 77146682
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.184/brushfall-server-0.1.1-early.184.tar.gz",
+      "sha256": "4c6c9eed66c5a5a0b938a4bf75f3c2be38b1762826249a5c414afc16a1c3a4ec",
+      "size": 77146002
     }
   },
-  "commit": "5af970ac30a3fb50cf214ff43ff4a98a700e40fb"
+  "commit": "d2d87405d64f0832e4cf265ffeb33dbe8cca94de"
 }
