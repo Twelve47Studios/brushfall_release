@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.186",
-  "published": "2026-11-03T20:24:04.009Z",
-  "notes": "- Other players see a hero in the Atelier painting at a little easel",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.186",
+  "version": "0.1.1-early.187",
+  "published": "2026-11-03T21:26:00.954Z",
+  "notes": "- A first-hour mystery, someone is rubbing the world out, and Crosshatch at the Ford",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.187",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.186/brushfall-server-0.1.1-early.186.tar.gz",
-      "sha256": "705ee12eec505a2fc39cbc98813283f02e5a833358ab21fe453191a8ee83e197",
-      "size": 77153377
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.187/brushfall-server-0.1.1-early.187.tar.gz",
+      "sha256": "b6fcc304a8ffd51ca7aedcd26255ed78048336a4b732d6aca9fcf39b343ec6bb",
+      "size": 77946114
     }
   },
-  "commit": "898dbbdfd03d32768e1da2f1b1cc66a00190ddb7"
+  "commit": "63a4b25661d37042d7aa865fb51b4a3bbd3d2470"
 }
