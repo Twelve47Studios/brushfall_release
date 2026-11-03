@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.185",
-  "published": "2026-11-03T15:20:28.584Z",
-  "notes": "- A hero painting in the Atelier stays put and out of fights",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.185",
+  "version": "0.1.1-early.186",
+  "published": "2026-11-03T20:24:04.009Z",
+  "notes": "- Other players see a hero in the Atelier painting at a little easel",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.186",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.185/brushfall-server-0.1.1-early.185.tar.gz",
-      "sha256": "54760e377dc38113ef587460b21cf131bf2afc54f1e01b837408fab228591c0b",
-      "size": 77150099
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.186/brushfall-server-0.1.1-early.186.tar.gz",
+      "sha256": "705ee12eec505a2fc39cbc98813283f02e5a833358ab21fe453191a8ee83e197",
+      "size": 77153377
     }
   },
-  "commit": "21b45127d7b712d6716a4125235c3b3904e01e0e"
+  "commit": "898dbbdfd03d32768e1da2f1b1cc66a00190ddb7"
 }
