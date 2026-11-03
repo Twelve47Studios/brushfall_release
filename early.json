@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.187",
-  "published": "2026-11-03T21:26:00.954Z",
-  "notes": "- A first-hour mystery, someone is rubbing the world out, and Crosshatch at the Ford",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.187",
+  "version": "0.1.1-early.188",
+  "published": "2026-11-03T22:28:45.485Z",
+  "notes": "- A hero's patch shrinks away at its range instead of popping, no sparkle for a step done in disguise, a steadi…\n- The blank creeps in at the lookouts, and backs off as your story goes on\n- Each hero wears an unpainted patch that paints in as their story moves on\n- Keeper Wick for the Smudge's last chapter, no story card in a Sprout's quest log, a sturdier steps-left cache\n- A walk that only grazes a tree trunk or a wall's corner is stopped at its edge\n- Your Story card, a storybook moment for every chapter, and the crumb trail on through the Middle\n- The story spine, a storybook moment for each step, and each hero's steps left in snapshots",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.188",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.187/brushfall-server-0.1.1-early.187.tar.gz",
-      "sha256": "b6fcc304a8ffd51ca7aedcd26255ed78048336a4b732d6aca9fcf39b343ec6bb",
-      "size": 77946114
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.188/brushfall-server-0.1.1-early.188.tar.gz",
+      "sha256": "b1d3e6e2260281e2428c39954cf196b18a462df2e29022fb0b02b6f6ecb72015",
+      "size": 78619213
     }
   },
-  "commit": "63a4b25661d37042d7aa865fb51b4a3bbd3d2470"
+  "commit": "dcbaefd886f60cec80389588330b7d1dc4c1959b"
 }
