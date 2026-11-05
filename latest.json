@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.189",
-  "published": "2026-11-03T23:41:35.765Z",
-  "notes": "- Read to me says a quest count at its moments, not on every creature",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.189",
+  "version": "0.1.1-early.190",
+  "published": "2026-11-05T00:32:26.261Z",
+  "notes": "- Every quest on the road mentions the story, and the people you pass talk about your chapter",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.190",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.189/brushfall-server-0.1.1-early.189.tar.gz",
-      "sha256": "a1c6dcf435bb68c8616dea0f49af28df3d5471c77c0a990e7495d9fbfec89f33",
-      "size": 72613096
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.190/brushfall-server-0.1.1-early.190.tar.gz",
+      "sha256": "089a37af9a5f16bb7f1b8ee71071116f9803b765f2698f76683411a184dec299",
+      "size": 74335388
     }
   },
-  "commit": "56a9426619d9d7aa4b5e62bf9524840f0edfec60"
+  "commit": "3a2a423f397aad448802daf0d06f8da926038f2f"
 }
