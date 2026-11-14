@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1-early.191",
-  "published": "2026-11-14T16:50:32.321Z",
-  "notes": "- The world draws on Windows again (painted ground reads its textures before any early return)",
-  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.191",
+  "version": "0.1.1-early.192",
+  "published": "2026-11-14T17:14:55.747Z",
+  "notes": "- Ink outlines break their pencil line last, so Windows compiles them",
+  "url": "https://github.com/Twelve47Studios/brushfall_release/releases/tag/v0.1.1-early.192",
   "downloads": {
     "tarball": {
-      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.191/brushfall-server-0.1.1-early.191.tar.gz",
-      "sha256": "f7c8d8007069c0517d656ec3e8da6ae331c47333e78fc209f1e251c3d4c14c51",
-      "size": 74335469
+      "url": "https://github.com/Twelve47Studios/brushfall_release/releases/download/v0.1.1-early.192/brushfall-server-0.1.1-early.192.tar.gz",
+      "sha256": "97a8b7f1d0e05f289e232d74fc80efafc7b896d17652f60bad78c574d0744e99",
+      "size": 74335236
     }
   },
-  "commit": "6fe8371704556d632733fd13b31787df21541937"
+  "commit": "d9ead3668c047db75852253356b2b0816ce924ff"
 }
